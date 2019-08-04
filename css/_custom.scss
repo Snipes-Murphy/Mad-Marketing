@@ -1,0 +1,20 @@
+.navbar {
+  transition: 200ms;
+   & .dropdown .dropdown-content {
+    border-radius: 0;
+    box-shadow: 4px 16px 34px 7px #b0c0c545 !important;
+
+    &::before {
+      width: 24px;
+      height: 24px;
+    }
+  }
+}
+
+.icon-pill {
+  box-shadow: 1px 0px 34px 8px #b0c0c545, 3px 30px 20px 0px #b0c0c50f !important;
+}
+
+.font-highlight {
+  font-family: 'Source Code Pro', monospace !important;
+}

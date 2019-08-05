@@ -35,6 +35,17 @@ button, a {
 .bg-mad-grad {
   background: linear-gradient(150deg, #90f1af, #45ca8c); }
 
+.logo-small {
+  display: none;
+  height: auto;
+  align-items: center; }
+
+@media screen and (max-width: 1000px) {
+  .logo-small {
+    display: flex; } }
+@media screen and (min-width: 1000px) {
+  .logo {
+    display: inline-block; } }
 .navbar-active {
   background-color: white;
   box-shadow: 3px 30px 20px 0px #b0c0c50f; }
@@ -154,5 +165,9 @@ button, a {
   font-size: 20px !important; }
 .contact-us .details-section p {
   width: 100%; }
+
+@media screen and (max-width: 750px) {
+  .form-contact-us {
+    width: 100% !important; } }
 
 /*# sourceMappingURL=style.css.map */

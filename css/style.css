@@ -99,6 +99,10 @@ button, a {
     text-align: left; }
   .how-we-work .details-section {
     z-index: 5; }
+    .how-we-work .details-section h6 {
+      font-size: 22px; }
+    .how-we-work .details-section p {
+      font-size: 22px; }
   .how-we-work .hero-ambient-1 {
     z-index: -2;
     border-radius: 32px;
@@ -128,6 +132,144 @@ button, a {
     width: 100px;
     left: -5%;
     top: 150%; }
+
+.prototype {
+  position: relative; }
+  .prototype .image-section {
+    transform-style: preserve-3d;
+    perspective: 1000px; }
+    .prototype .image-section .text-section {
+      width: 50vw;
+      z-index: 4;
+      position: absolute;
+      top: -30%;
+      left: -0%;
+      text-align: left; }
+  .prototype .details-section {
+    z-index: 5; }
+    .prototype .details-section h6 {
+      font-size: 22px; }
+    .prototype .details-section p {
+      font-size: 22px; }
+  .prototype .hero-ambient-1 {
+    z-index: -2;
+    border-radius: 32px;
+    transform: rotate(45deg);
+    position: absolute;
+    background-color: #f3f7fd;
+    height: 40vh;
+    width: 50%;
+    left: -30%; }
+  .prototype .hero-ambient-2 {
+    z-index: -2;
+    border-radius: 32px;
+    transform: rotate(45deg);
+    position: absolute;
+    background-color: #f3f7fd;
+    height: 48px;
+    width: 100px;
+    left: 50%;
+    top: -60%; }
+  .prototype .hero-ambient-3 {
+    z-index: -2;
+    border-radius: 32px;
+    transform: rotate(45deg);
+    position: absolute;
+    background-color: #f3f7fd;
+    height: 48px;
+    width: 100px;
+    left: -5%;
+    top: 150%; }
+
+.portfolio-item {
+  position: relative;
+  margin-top: 250px; }
+  .portfolio-item .image-section {
+    transform-style: preserve-3d;
+    perspective: 1000px; }
+    .portfolio-item .image-section .text-section {
+      width: 50vw;
+      z-index: 4;
+      position: absolute; }
+      .portfolio-item .image-section .text-section.left {
+        top: -10%;
+        left: 0; }
+      .portfolio-item .image-section .text-section.right {
+        top: -10%;
+        right: 0; }
+  .portfolio-item .details-section {
+    z-index: 5; }
+    .portfolio-item .details-section h6 {
+      font-size: 22px; }
+    .portfolio-item .details-section p {
+      font-size: 22px; }
+  .portfolio-item .hero-ambient-1 {
+    z-index: -2;
+    border-radius: 32px;
+    transform: rotate(45deg);
+    position: absolute;
+    background-color: #f3f7fd;
+    height: 40vh;
+    width: 50%;
+    left: -30%; }
+
+.details {
+  margin-top: 250px;
+  position: relative; }
+  .details .image-section {
+    transform-style: preserve-3d;
+    perspective: 1000px; }
+    .details .image-section .text-section {
+      width: 50vw;
+      z-index: 4;
+      position: absolute;
+      top: -5%;
+      right: 0%; }
+  .details .details-section {
+    z-index: 5; }
+    .details .details-section h6 {
+      font-size: 22px; }
+    .details .details-section p {
+      font-size: 22px; }
+  .details .hero-ambient-1 {
+    z-index: -2;
+    border-radius: 32px;
+    transform: rotate(-45deg);
+    position: absolute;
+    background-color: #f3f7fd;
+    height: 40vh;
+    width: 100%;
+    left: 70%; }
+  .details .hero-ambient-2 {
+    z-index: -2;
+    border-radius: 32px;
+    transform: rotate(45deg);
+    position: absolute;
+    background-color: #f3f7fd;
+    height: 48px;
+    width: 100px;
+    left: 50%;
+    top: -60%; }
+  .details .hero-ambient-3 {
+    z-index: -2;
+    border-radius: 32px;
+    transform: rotate(45deg);
+    position: absolute;
+    background-color: #f3f7fd;
+    height: 48px;
+    width: 100px;
+    left: -5%;
+    top: 150%; }
+
+.image-display-pane {
+  border-radius: 16px;
+  box-shadow: 1px -5px 34px 8px #b0c0c545, 3px 30px 20px 0px #b0c0c50f; }
+  .image-display-pane.right {
+    transform: rotateY(20deg) rotateX(10deg) rotateZ(5deg);
+    box-shadow: -17px 20px 34px 8px #b0c0c5a6, 3px 30px 20px 0px #b0c0c50f !important; }
+  .image-display-pane.left {
+    transform: rotateY(-20deg) rotateX(10deg) rotateZ(0deg);
+    box-shadow: 17px 20px 34px 8px #b0c0c5a6, 3px 30px 20px 0px #b0c0c50f !important; }
 
 @media screen and (max-width: 1000px) {
   .image-section .text-section {

@@ -311,5 +311,23 @@ button, a {
 @media screen and (max-width: 750px) {
   .form-contact-us {
     width: 100% !important; } }
+.person {
+  margin: 12px 24px;
+  z-index: 10;
+  text-align: center;
+  padding: 24px 12px;
+  background-color: #ebeef2;
+  border-radius: 16px; }
+  .person img {
+    background-color: #dbdee3;
+    padding: 0px;
+    border-radius: 1000px; }
+  .person h1 {
+    margin: 0;
+    font-size: 32px; }
+  .person h2 {
+    margin: 0;
+    color: #9ca3ad;
+    font-size: 24px; }
 
 /*# sourceMappingURL=style.css.map */

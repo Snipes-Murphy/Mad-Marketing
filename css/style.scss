@@ -461,23 +461,48 @@ button, a {
   z-index: 10;
   text-align: center;
   padding: 24px 12px;
-  background-color: #ebeef2;
+  background-color: #f3f7fd;
   border-radius: 16px;
+  position: relative;
 
   & img {
-    background-color: #dbdee3;
+    background-color: #dae7fa;
     padding: 0px;
     border-radius: 1000px;
   }
 
   & h1 {
     margin: 0;
+    z-index: 10;
     font-size: 32px;
+    color: #45ca8c;
+    font-weight: 400;
   }
 
-  & h2 {
-    margin: 0;
-    color: rgb(156, 163, 173);
-    font-size: 24px;
+  .role-section {
+    display: inline-block;
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+    text-align: right;
+    color: #dae7fa;
+    z-index: -1;
+
+    & h1 {
+      margin: 0;
+      line-height: 1em;
+      text-transform: uppercase;
+      font-size: 32px;
+      font-weight: 700;
+      color: #dae7fa;
+    }
+
+    & h2 {
+      margin: 0;
+      line-height: 0.7em;
+      text-transform: uppercase;
+      font-size: 64px;
+      color: #dae7fa;
+    }
   }
 }

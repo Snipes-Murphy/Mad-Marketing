@@ -316,18 +316,39 @@ button, a {
   z-index: 10;
   text-align: center;
   padding: 24px 12px;
-  background-color: #ebeef2;
-  border-radius: 16px; }
+  background-color: #f3f7fd;
+  border-radius: 16px;
+  position: relative; }
   .person img {
-    background-color: #dbdee3;
+    background-color: #dae7fa;
     padding: 0px;
     border-radius: 1000px; }
   .person h1 {
     margin: 0;
-    font-size: 32px; }
-  .person h2 {
-    margin: 0;
-    color: #9ca3ad;
-    font-size: 24px; }
+    z-index: 10;
+    font-size: 32px;
+    color: #45ca8c;
+    font-weight: 400; }
+  .person .role-section {
+    display: inline-block;
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+    text-align: right;
+    color: #dae7fa;
+    z-index: -1; }
+    .person .role-section h1 {
+      margin: 0;
+      line-height: 1em;
+      text-transform: uppercase;
+      font-size: 32px;
+      font-weight: 700;
+      color: #dae7fa; }
+    .person .role-section h2 {
+      margin: 0;
+      line-height: 0.7em;
+      text-transform: uppercase;
+      font-size: 64px;
+      color: #dae7fa; }
 
 /*# sourceMappingURL=style.css.map */

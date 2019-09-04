@@ -59,6 +59,56 @@
                   </div>
                 </div>
               </div>
+              <div class="col-md-3">
+                <div class="person">
+                  <img src="img/people/matt.jpg" alt="Full-Stack Web Developer" height="128px" width="128px">
+                  <h1>Matt Murphy</h1>
+                  <div class="role-section">
+                    <h1>Full-Stack Web Developer</h1>
+                    <h2>03</h2>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="person">
+                  <img src="img/people/harrison.jpg" alt="Full-Stack Web Developer" height="128px" width="128px">
+                  <h1>Harrison Slattery</h1>
+                  <div class="role-section">
+                    <h1>Photographer & Videographer</h1>
+                    <h2>04</h2>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="person">
+                  <img src="img/people/steph.jpg" alt="Graphic Designer" height="128px" width="128px">
+                  <h1>Steph Cleland</h1>
+                  <div class="role-section">
+                    <h1>Graphic Designer</h1>
+                    <h2>05</h2>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="person">
+                  <img src="img/people/zach.jpg" alt="Graphic Designer" height="128px" width="128px">
+                  <h1>Zach Bud Brown</h1>
+                  <div class="role-section">
+                    <h1>Graphic Designer</h1>
+                    <h2>06</h2>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="person">
+                  <img src="img/people/oliver.jpg" alt="Social Media Marketing" height="128px" width="128px">
+                  <h1>Oliver Hunter</h1>
+                  <div class="role-section">
+                    <h1>Social Media Manager</h1>
+                    <h2>07</h2>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>

@@ -22,20 +22,22 @@
   Vue.component('meta-data', {
     props: ['title', 'description', 'keywords'],
     template: `
-    <title>Mad Marketing - {{ title }}</title>
-    <meta name="description" content="{{ description }}">
-    <meta name="keywords" content="{{ keywords }}">
-    <meta name="author" content="Mad Marketing Website Development">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Mad Marketing - {{ title }}">
-    <meta property="og:image" content="https://i.imgur.com/DQjYWm6.png">
-    <meta property="og:description" content="{{ description }}">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Mad Marketing - {{ title }}">
-    <meta name="twitter:image" content="https://i.imgur.com/DQjYWm6.png">
-    <meta itemprop="name" content="Mad Marketing - {{ title }}">
-    <meta itemprop="description" content="{{ description }}">
-    <meta itemprop="image" content="https://i.imgur.com/DQjYWm6.png">
+    <div>
+      <title>Mad Marketing - {{ title }}</title>
+      <meta name="description" v-bind:content="description">
+      <meta name="keywords" v-bind:content="keywords">
+      <meta name="author" content="Mad Marketing Website Development">
+      <meta property="og:type" content="website">
+      <meta property="og:title" v-bind:content="title">
+      <meta property="og:image" content="https://i.imgur.com/DQjYWm6.png">
+      <meta property="og:description" v-bind:content="description">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" v-bind:content="title">
+      <meta name="twitter:image" content="https://i.imgur.com/DQjYWm6.png">
+      <meta itemprop="name" v-bind:content="title">
+      <meta itemprop="description" v-bind:content="description">
+      <meta itemprop="image" content="https://i.imgur.com/DQjYWm6.png">
+    </div>
     `
   })
 

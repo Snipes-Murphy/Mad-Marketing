@@ -2,7 +2,22 @@
 <html lang="en" dir="ltr">
   <?php include"src/meta.php" ?>
   <div id="seo-manager">
-    <meta-data title="Graphic & Brand Design" description="People focused. Results driven. We know digital and we're here to help you & your business. We offer a powerful blend of media, services & technology. Get in touch to learn more. Digital Strategy. Mobile Advertising. SEO Specialists. Email & Lead Generation. Media Planning." keywords="Brand design, brand development, graphic design, gain Exposure for your business, sign design, print design, business design, style design, layout design, website design, digital marketing, content creation, video marketing, ad marketing, ads, picture marketing"></meta-data>
+    <div>
+      <title>Mad Marketing - Graphic and Brand Design</title>
+      <meta name="description" content="People focused. Results driven. We know digital and we're here to help you and your business. We offer a powerful blend of media, services And technology. Get in touch to learn more. Digital Strategy. Mobile Advertising. SEO Specialists. Email and Lead Generation. Media Planning.">
+      <meta name="keywords" content="Graphic Design, Custom branding, Graphic And Web Design, Print Design, Brand Design, Logo Design, Magazine Design Brochure Design, Branding, Logo design Albury, Custom Logo Design, Graphic Design, Website Design, Illustration, Photo Retouching, Logo And Branding, Affordable graphic design, Affordable logo design, Cheap graphic design, Cheap logo design">
+      <meta name="author" content="Mad Marketing Website Development">
+      <meta property="og:type" content="website">
+      <meta property="og:title" content="Graphic and Brand Design">
+      <meta property="og:image" content="https://i.imgur.com/qiKH9Fp.jpg">
+      <meta property="og:description" content="People focused. Results driven. We know digital and we're here to help you and your business. We offer a powerful blend of media, services and technology. Get in touch to learn more. Digital Strategy. Mobile Advertising. SEO Specialists. Email and Lead Generation. Media Planning.">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" content="Graphic and Brand Design">
+      <meta name="twitter:image" content="https://i.imgur.com/qiKH9Fp.jpg">
+      <meta itemprop="name" content="Graphic and Brand Design">
+      <meta itemprop="description" content="People focused. Results driven. We know digital and we're here to help you and your business. We offer a powerful blend of media, services and technology. Get in touch to learn more. Digital Strategy. Mobile Advertising. SEO Specialists. Email and Lead Generation. Media Planning.">
+      <meta itemprop="image" content="https://i.imgur.com/qiKH9Fp.jpg">
+    </div>
   </div>
 
   <body class="no-x-overflow">
@@ -15,11 +30,11 @@
             <div style="z-index: 6;">
               <h1>Creative Design and Corporate Branding is all about You.</h1>
               <p class="font-lg">Discover how robust creative design can impact your audience dramatically.</p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight">Keen to join the Circle?</button></a>
+              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Keen to join the Circle?"><span>Keen to join the Circle?</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">
-            <img src="img/drawer.png" alt="Premium website design" style="z-index: 5;" width="100%">
+            <img src="img/illustrations/5.svg" alt="Premium website design" style="z-index: 5;" width="100%">
             <div class="hero-bg"></div>
             <div class="text-section text-right">
               <h1>Design</h1>
@@ -44,14 +59,14 @@
             <div class="row">
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="layout" class="text-grey-4" style="height: 28px; width: 28px; position: relative; top: .10em;"></i>
+          				<i data-feather="layout" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Brand Strategy</h6>
                 <p class="my-sm">Encover your vision, voice and how you communicate to your audience.</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative; top: .10em;"></i>
+          				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Brand Identity</h6>
                 <p class="my-sm">Set the tone for your brand design and give you an idea of what kind of direction we're moving towards.</p>
@@ -68,7 +83,7 @@
           <div class="col-md-7 details-section">
             <div>
               <h1>Just like that.</h1>
-              <p>Graphic design is everywhere, it is in everything you see each day and touches everything you do. It is the art of visualising ideas and understanding how the right design can impact people your are trying to reach, and can have serious benefits for your company.</p>
+              <p>Graphic design is everywhere, it is in everything you see each day and touches everything you do. It is the art of visualising ideas and understanding how the right design can impact people you are trying to reach, and can have serious benefits for your company.</p>
             </div>
           </div>
           <div class="col-md-5 display-flex flex-vcenter image-section">

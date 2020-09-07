@@ -2,7 +2,22 @@
 <html lang="en" dir="ltr">
   <?php include"src/meta.php" ?>
   <div id="seo-manager">
-    <meta-data title="Social Media Marketing" description="People focused. Results driven. We know digital and we're here to help you & your business. We offer a powerful blend of media, services & technology. Get in touch to learn more. Digital Strategy. Mobile Advertising. SEO Specialists. Email & Lead Generation. Media Planning." keywords="seo, marketing, target ad, digital marketing, affilate marketing, marketing strategy, email marketing, market planning, internet marketing, seo services, seo management, direct marketing, seo company, marketing online, b2b marketing, social marketing, web marketing, online marketing, marketing agency"></meta-data>
+    <div>
+      <title>Mad Marketing - Social Media Marketing</title>
+      <meta name="description" content="People focused. Results driven. We know digital and we're here to help you and your business. We offer a powerful blend of media, services and technology. Get in touch to learn more. Digital Strategy. Mobile Advertising. SEO Specialists. Email and Lead Generation. Media Planning.">
+      <meta name="keywords" content="Social media, social media marketing, marketing, advertising, facebook, facebook marketing, Instagram, Instagram marketing, engaging customers, posting, social media posting, scheduling posts, scheduling, ad creation, marketing creation">
+      <meta name="author" content="Mad Marketing Website Development">
+      <meta property="og:type" content="website">
+      <meta property="og:title" content="Social Media Marketing">
+      <meta property="og:image" content="https://i.imgur.com/qiKH9Fp.jpg">
+      <meta property="og:description" content="People focused. Results driven. We know digital and we're here to help you and your business. We offer a powerful blend of media, services and technology. Get in touch to learn more. Digital Strategy. Mobile Advertising. SEO Specialists. Email and Lead Generation. Media Planning.">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" content="Social Media Marketing">
+      <meta name="twitter:image" content="https://i.imgur.com/qiKH9Fp.jpg">
+      <meta itemprop="name" content="Social Media Marketing">
+      <meta itemprop="description" content="People focused. Results driven. We know digital and we're here to help you and your business. We offer a powerful blend of media, services and technology. Get in touch to learn more. Digital Strategy. Mobile Advertising. SEO Specialists. Email and Lead Generation. Media Planning.">
+      <meta itemprop="image" content="https://i.imgur.com/qiKH9Fp.jpg">
+    </div>
   </div>
 
   <body class="no-x-overflow">
@@ -15,11 +30,11 @@
             <div style="z-index: 6;">
               <h1>Influence is not popularity.</h1>
               <p class="font-lg">We lure leads with the things that concern them, not <br> the traditional way.</p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight">Keen to join the Circle?</button></a>
+              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-text-animate btn-highlight" btn-text="Keen to join the Circle?"><span>Keen to join the Circle?</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">
-            <img src="img/illustrations/2.svg" alt="Premium website design" style="z-index: 5;" width="100%">
+            <img src="img/illustrations/13.svg" alt="Premium website design" class="mt-xlg" style="z-index: 5;" width="100%">
             <div class="hero-bg"></div>
             <div class="text-section text-right">
               <h1>Design</h1>

@@ -36,7 +36,7 @@
             <div style="z-index: 6;">
               <h1>Professional Photography Studio.</h1>
               <p class="font-lg">Lets work to elevate your photography to the next level with a fully equipt photography studio.</p>
-              <a class="timify-button" data-account-id="5e1d11ede3850b1173410ae5"><button type="button" name="button" class="btn-error bg-error-grad btn-round btn-highlight btn-text-animate" btn-text="Keen to join the Circle?"><span>50% Off Photography Studio!</span></button></a>
+              <a class="timify-button" data-account-id="5e1d11ede3850b1173410ae5"><button type="button" name="button" class="btn-error bg-error-grad btn-round btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>50% Off Photography Studio!</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">

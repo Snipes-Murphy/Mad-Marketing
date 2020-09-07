@@ -30,7 +30,7 @@
             <div style="z-index: 6;">
               <h1>How we design websites.</h1>
               <p class="font-lg">We design websites to turn impressions into customers, for now and into the future.</p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Keen to join the Circle?"><span>Keen to join the Circle?</span></button></a>
+              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">

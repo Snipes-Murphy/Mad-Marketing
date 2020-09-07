@@ -29,7 +29,7 @@
               <h1>Who we are.</h1>
               <p class="font-lg">We're an extension to your business,
               who are dedicated and passionate about growing your business just as much as you, "Make A Difference".</p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Keen to join the Circle?"><span>Keen to join the Circle?</span></button></a>
+              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">

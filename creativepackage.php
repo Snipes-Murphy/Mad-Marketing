@@ -54,7 +54,7 @@
           <div class="col-md-7 details-section">
                <h1>Limited Spots Available</h1>
                 <p>
-                  Here at Mad Marketing, we understand the 2020 hasn't been the best year for businesses. So, we are going to offer YOU a SPECIAL DEAL to help bring in those much-needed customers.
+                  Here at Mad Marketing, we understand that 2020 hasn't been the best year for businesses. So, we are going to offer YOU a SPECIAL DEAL to help bring in those much-needed customers.
                     Here's a package normally valued at $7050 now available to YOU for $1100. That's 84% OFF! 😯
                 </p>
             <div class="row">

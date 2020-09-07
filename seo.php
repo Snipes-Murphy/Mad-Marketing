@@ -30,7 +30,7 @@
             <div style="z-index: 6;">
               <h1>Where your brand does business.</h1>
               <p class="font-lg">We deliver robust web presence, that always converts <br>into sales.</p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Keen to join the Circle?"><span>Keen to join the Circle?</span></button></a>
+              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">

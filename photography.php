@@ -28,7 +28,7 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>Professionally captured Photography & Videography for your Business.</h1>
+              <h1>Professionally captured Photography & Videography for your Business</h1>
               <p class="font-lg">Lets work to elevate your business through the use of Photo & Video content.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
@@ -36,75 +36,53 @@
           <div class="col-md-6 hero-header" style="z-index:5">
             <img src="img/illustrations/8.svg" alt="Premium website design" style="z-index: 5;" width="100%">
             <div class="hero-bg"></div>
-            <div class="text-section text-right">
-              <h1>Design</h1>
-              <h2>01</h2>
-            </div>
           </div>
         </div>
       </div>
       <div class="prototype">
         <div class="hero-ambient-1"></div>
         <div class="hero-ambient-2"></div>
-        <div class="hero-ambient-3"></div>
         <div class="row">
           <div class="col-md-5 display-flex flex-vcenter image-section pr-md">
             <div class="text-section">
               <h1>Photography</h1>
-              <h2>02</h2>
             </div>
             <img src="img/work/6/1.jpg" alt="Premium website design" class="image-display-pane" style="z-index: 5;" width="100%">
           </div>
           <div class="col-md-7 details-section">
             <div>
-              <h1>High Engagement.</h1>
+              <h1>High Engagement</h1>
               <div class="row">
                 <div class="col-lg-6 px-lg">
                   <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-            				<i data-feather="layout" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+            				<i data-feather="dollar-sign" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                   </div>
                   <h6 class="text-bold">Affordable</h6>
                   <p class="my-sm">We offer Photography & Videography services that are available for every business budget, large or small.</p>
                 </div>
                 <div class="col-lg-6 px-lg">
                   <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-            				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+            				<i data-feather="users" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                   </div>
                   <h6 class="text-bold">Collaboration</h6>
                   <p class="my-sm">We work with you to figure out the best way to capture your business. Emotive, professional, full of energy & passion.</p>
                 </div>
                 <div class="col-lg-6 px-lg">
                   <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-            				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+            				<i data-feather="check" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                   </div>
                   <h6 class="text-bold">High Quality</h6>
                   <p class="my-sm">High Resolution photographs & videos that can be viewed on any device.</p>
                 </div>
                 <div class="col-lg-6 px-lg">
                   <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-            				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+            				<i data-feather="map" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                   </div>
                   <h6 class="text-bold">Locally based</h6>
                   <p class="my-sm">Because we are Albury based, you don’t need to worry about travel fees from the agencies in the cities. Locals supporting locals.</p>
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-        <div class="row" style="margin-top: 250px;">
-          <div class="col-md-7 details-section">
-            <div>
-              <h1>High Engagement.</h1>
-              <p>We write a concept for every job, and work with you through the project to make sure you are satisfied with the finished product 100%. Whether they are for social media, your website or for a TV Ad, the quality of our work is consistent throughout.</p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight">Get in touch today!</button></a>
-            </div>
-          </div>
-          <div class="col-md-5 display-flex flex-vcenter image-section pr-md">
-            <div class="text-section right" style="top: -200px; text-align: right !important; right: 0; left: auto;">
-              <h1>Videography</h1>
-              <h2>03</h2>
-            </div>
-            <video src="img/work/7.mp4" autoplay muted loop width="100%" style="z-index: 999999999;" class="image-display-pane">
           </div>
         </div>
       </div>

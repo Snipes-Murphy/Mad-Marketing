@@ -51,8 +51,6 @@
       </div>
       <div class="how-we-work">
         <div class="hero-ambient-1"></div>
-        <div class="hero-ambient-2"></div>
-        <div class="hero-ambient-3"></div>
         <div class="row">
           <div class="col-md-5 display-flex flex-vcenter image-section">
             <div class="text-section" style="z-index: -1 !important; top: 0% !important;">
@@ -61,7 +59,7 @@
             <img src="img/illustrations/3.svg" alt="Premium marketing" style="z-index: 5;" width="100%">
           </div>
           <div class="col-md-7 details-section">
-            <div class="row">
+            <div class="row pt-lg">
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
           				<i data-feather="layout" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
@@ -96,7 +94,7 @@
       </div>
       <div class="how-we-work">
         <div class="row">
-          <div class="col-md-7 details-section">
+          <div class="col-md-7 details-section pt-lg">
             <p>
               Mad Marketing provides innovative marketing strategies to bring an immense amount of impressions and from there convert them into
               conversions, we ensure we know your industry before bringing you on and taking any of your capital, this lets us provide you with quicker

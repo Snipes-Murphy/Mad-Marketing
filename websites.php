@@ -28,7 +28,7 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>How we design websites.</h1>
+              <h1>How do we make websites?</h1>
               <p class="font-lg">We design websites to turn impressions into customers, for now and into the future.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
@@ -38,20 +38,16 @@
             <div class="hero-bg"></div>
             <div class="text-section text-right">
               <h1>Design</h1>
-              <h2>01</h2>
             </div>
           </div>
         </div>
       </div>
       <div class="prototype">
         <div class="hero-ambient-1"></div>
-        <div class="hero-ambient-2"></div>
-        <div class="hero-ambient-3"></div>
         <div class="row">
           <div class="col-md-5 display-flex flex-vcenter image-section">
             <div class="text-section">
               <h1>Prototype</h1>
-              <h2>02</h2>
             </div>
             <img src="img/work/1.jpg" alt="Premium website design" style="z-index: 5;" width="100%" class="image-display-pane right">
           </div>
@@ -62,28 +58,28 @@
           				<i data-feather="layout" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Unique Designs</h6>
-                <p class="my-sm">To design is much more than simply to assemble, to order, or even to edit; it is to add value, to lluminate, to persuade, and perhaps even to amuse.</p>
+                <p class="my-sm">Designing is not simply just assembling, ordering or even editing. It is to add value, illuminate, persuade and even amuse.</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
           				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">It's Responsive</h6>
-                <p class="my-sm">No matter how your client finds, whether on mobile, tablet or desktop; our websites will ensure you are found across search engine platforms.</p>
+                <p class="my-sm">No matter how your client finds you - on mobile, tablet or desktop. Our websites will ensure you are found across search engine platforms.</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
           				<i data-feather="dollar-sign" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">High Converting</h6>
-                <p class="my-sm">Our website designs will turn impressions into customers, with eye catching homepages, illustrations and phrases.</p>
+                <p class="my-sm">Our website designs will turn impressions into customers, with eye-catching homepages, illustrations and phrases.</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
           				<i data-feather="crop" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Design Booklet</h6>
-                <p class="my-sm">You'll recieve a physical booklet with the design styles used to streamline the design globally.</p>
+                <p class="my-sm">You'll recieve a physical booklet with the design styles to ensure uniformity in your brand.</p>
               </div>
             </div>
           </div>

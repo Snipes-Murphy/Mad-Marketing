@@ -28,8 +28,8 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>Creative Design and Corporate Branding is all about You.</h1>
-              <p class="font-lg">Discover how robust creative design can impact your audience dramatically.</p>
+              <h1>Creative Design and Corporate Branding is all about You</h1>
+              <p class="font-lg">Discover how creative design can impact your audience dramatically.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>
@@ -44,9 +44,6 @@
         </div>
       </div>
       <div class="prototype">
-        <div class="hero-ambient-1"></div>
-        <div class="hero-ambient-2"></div>
-        <div class="hero-ambient-3"></div>
         <div class="row">
           <div class="col-md-5 display-flex flex-vcenter image-section">
             <div class="text-section">
@@ -62,11 +59,11 @@
           				<i data-feather="layout" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Brand Strategy</h6>
-                <p class="my-sm">Encover your vision, voice and how you communicate to your audience.</p>
+                <p class="my-sm">Plan out how to establish and communicate your vision to your audience.</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+          				<i data-feather="image" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Brand Identity</h6>
                 <p class="my-sm">Set the tone for your brand design and give you an idea of what kind of direction we're moving towards.</p>
@@ -76,14 +73,11 @@
         </div>
       </div>
       <div class="details">
-        <div class="hero-ambient-1"></div>
-        <div class="hero-ambient-2"></div>
-        <div class="hero-ambient-3"></div>
         <div class="row">
           <div class="col-md-7 details-section">
             <div>
-              <h1>Just like that.</h1>
-              <p>Graphic design is everywhere, it is in everything you see each day and touches everything you do. It is the art of visualising ideas and understanding how the right design can impact people you are trying to reach, and can have serious benefits for your company.</p>
+              <h1>Just like that</h1>
+              <p>Graphic design is everywhere, it is in everything you see each day and touches everything you do. It is the art of visualising ideas and understanding how the right design can impact people you are trying to reach and can have serious benefits for your company.</p>
             </div>
           </div>
           <div class="col-md-5 display-flex flex-vcenter image-section">

@@ -34,9 +34,8 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>Professional Photography Studio.</h1>
-              <p class="font-lg">Lets work to elevate your photography to the next level with a fully equipt photography studio.</p>
-              <a class="timify-button" data-account-id="5e1d11ede3850b1173410ae5"><button type="button" name="button" class="btn-error bg-error-grad btn-round btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>50% Off Photography Studio!</span></button></a>
+              <h1>Professional Photography Studio</h1>
+              <p class="font-lg">Lets work to elevate your photography to the next level with a fully equipped photography studio.</p>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">
@@ -44,7 +43,6 @@
             <div class="hero-bg"></div>
             <div class="text-section text-right">
               <h1>Design</h1>
-              <h2>01</h2>
             </div>
           </div>
         </div>
@@ -52,22 +50,20 @@
       <div class="prototype">
         <div class="hero-ambient-1"></div>
         <div class="hero-ambient-2"></div>
-        <div class="hero-ambient-3"></div>
         <div class="row">
-          <div class="col-md-7 details-section" id="info">
+          <div class="col-md-7 details-section pr-lg" id="info">
             <div>
-              <h1>High Engagement.</h1>
-              <p>Whether you're a photographer/ videographer requiring studio space for a client or a business needing studio space to take amazing product shots. If you would like to pre-purchase time so you can get this amazing deal, please contact us. If you're in need of a photographer or videographer, please contact us.</p>
+              <h1>High Engagement</h1>
+              <p>Whether you're a business, photographer or a videographer requiring a studio space for a client to take amazing product shots, we have the space for you. Contact us if you would like to pre-purchase time so you can get this amazing deal. Photographers and Videographers can also be available on request.</p>
 
-              <a class="timify-button" data-account-id="5e1d11ede3850b1173410ae5"><button type="button" name="button" class="btn-primary btn-mad btn-highlight">Book Online!</button></a>
+              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight">Book Now!</button></a>
             </div>
           </div>
           <div class="col-md-5 display-flex flex-vcenter image-section pr-md">
-            <div class="text-section right" style="top: -200px; text-align: right !important; right: 0; left: auto;">
+            <div class="text-section right" style="top: -93px !important; text-align: right !important; right: 19px; left: auto;">
               <h1>Videography</h1>
-              <h2>03</h2>
             </div>
-            <img src="img/readytohire.jpg" width="100%" style="z-index: 999999999;" class="image-display-pane">
+            <img src="img/studio/photography.png" width="100%" style="z-index: 999999999;">
           </div>
         </div>
         <div class="row mt-xlg">
@@ -75,8 +71,6 @@
             <div data-merge="1"><img src="img/studio/1.jpg" class="image-display-pane no-shadow"> </div>
             <div data-merge="1"><img src="img/studio/2.jpg" class="image-display-pane no-shadow"> </div>
             <div data-merge="1"><img src="img/studio/3.jpg" class="image-display-pane no-shadow"> </div>
-            <div data-merge="1"><img src="img/studio/4.jpg" class="image-display-pane no-shadow"> </div>
-            <div data-merge="1"><img src="img/studio/5.jpg" class="image-display-pane no-shadow"> </div>
           </div>
         </div>
       </div>

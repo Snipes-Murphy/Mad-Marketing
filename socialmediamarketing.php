@@ -28,8 +28,8 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>Influence is not popularity.</h1>
-              <p class="font-lg">We lure leads with the things that concern them, not <br> the traditional way.</p>
+              <h1>Influence is not popularity</h1>
+              <p class="font-lg">We produce leads using things that concern them, not <br> the traditional way.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-text-animate btn-highlight" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>

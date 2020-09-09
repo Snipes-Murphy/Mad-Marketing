@@ -28,7 +28,7 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>Design matters.</h1>
+              <h1>Design matters</h1>
               <p class="font-lg">Your visual brand is critical to your success in <br>business.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
@@ -45,12 +45,10 @@
       </div>
       <div class="prototype">
         <div class="hero-ambient-1"></div>
-        <div class="hero-ambient-2"></div>
-        <div class="hero-ambient-3"></div>
         <div class="row">
           <div class="col-md-5 display-flex flex-vcenter image-section">
             <div class="text-section">
-              <h1>Prototype</h1>
+              <h1>Concepts</h1>
               <h2>02</h2>
             </div>
             <img src="img/catalog.jpg" alt="Premium website design" style="z-index: 5;" width="100%" class="image-display-pane right">
@@ -62,28 +60,28 @@
           				<i data-feather="layout" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Unique Designs</h6>
-                <p class="my-sm">Brands developed from scratch to major creative campaigns, our team will work with you to find and design the style both on and offline.</p>
+                <p class="my-sm">Brands developed from scratch to major creative campaigns, our team will work with you to find your design style.</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+          				<i data-feather="book" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Publication</h6>
-                <p class="my-sm">Print is still a major part of a business, hence, we have you covered from design to print!</p>
+                <p class="my-sm">Print is a major part of a business, hence, we have you covered from design to print!</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="dollar-sign" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+          				<i data-feather="check-square" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Balance</h6>
                 <p class="my-sm">Provides stability and structure to a design. It's the weight distributed in the design by the placement of the elements.</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="crop" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+          				<i data-feather="book-open" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Sample Design Copies</h6>
-                <p class="my-sm">Along the way we always keep you in the loop giving you sample concept designs and range of options to develop the end result.</p>
+                <p class="my-sm">In all the steps of creation, we always keep you in the loop giving you sample concept designs and range of options to develop the end result.</p>
               </div>
             </div>
           </div>

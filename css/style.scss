@@ -129,6 +129,7 @@ button, a {
     text-transform: uppercase;
     font-size: 124px;
     color: #dae7fa;
+    display: none;
   }
 
   &.right {
@@ -371,6 +372,10 @@ button, a {
       z-index: 4;
       position: absolute;
 
+      h2 {
+        display: none;
+      }
+
       &.left {
         top: -10%;
         left: 0;
@@ -477,7 +482,7 @@ button, a {
 .image-display-pane {
   border-radius: 16px;
   box-shadow: 1px -5px 34px 8px #b0c0c545, 3px 30px 20px 0px #b0c0c50f;
-
+/*
   &.right {
     transform: rotateY(20deg) rotateX(10deg) rotateZ(5deg);
     box-shadow: -17px 20px 34px 8px #b0c0c5a6, 3px 30px 20px 0px #b0c0c50f !important;
@@ -486,7 +491,7 @@ button, a {
   &.left {
     transform: rotateY(-20deg) rotateX(10deg) rotateZ(0deg);
     box-shadow: 17px 20px 34px 8px #b0c0c5a6, 3px 30px 20px 0px #b0c0c50f !important;
-  }
+  }*/
 }
 
 @media screen and (max-width: 1000px) {
@@ -688,4 +693,10 @@ $grey-2: #73797b;
 .day-item {
   font-size: 24px;
   font-weight: 700;
+}
+
+@for $item from 1 through 3 {
+  .hero-ambient-#{$item} {
+    display: none !important;  
+  }
 }

@@ -51,9 +51,6 @@
     </div>
     <div class="how-we-work">
       <div class="deck card-accordion-radio">
-        <div class="hero-ambient-1"></div>
-        <div class="hero-ambient-2"></div>
-        <div class="hero-ambient-3"></div>
         <div>
           <div class="image-section" style="z-index: 10;">
             <div class="text-section" style="z-index: -1">
@@ -61,28 +58,7 @@
             </div>
             <div class="row row-center" style="z-index: 16;">
               <div class="col-md-3">
-                <div class="person">
-                  <img src="img/people/Mali.png" alt="Mail" height="128px" width="128px">
-                  <h1>Mali</h1>
-                  <div class="role-section">
-                    <h1>MARKETING DOG</h1>
-                  </div>
-                  <div class="card card-accordion bg-transparent no-shadow">
-                    <div class="card-accordion-heading bg-transparent">
-                      <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
-                    </div>
-                    <div class="card-accordion-content">
-                      <p>
-                        Enjoys: Melting hearts, chicken, experimental design, sunny photo shoots and Elvis Presley music Dislikes: Hot weather, people who don't give good pats and wet grass. Mali lives for her days in the office providing moral support and well informed feedback to all of the team members. This pup rules the roost and don't let her size fool you!
-                      </P>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="person">
+                <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/charlie.jpg" alt="Charlie Jackson" height="128px" width="128px">
                   <h1>Charlie Jackson</h1>
                   <div class="role-section">
@@ -106,7 +82,7 @@
                 </div>
               </div>
               <div class="col-md-3">
-                <div class="person">
+                <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/kye.jpg" alt="Kye Wilson" height="128px" width="128px">
                   <h1>Kye Wilson</h1>
                   <div class="role-section">
@@ -127,77 +103,7 @@
                 </div>
               </div>
               <div class="col-md-3">
-                <div class="person">
-                  <img src="img/people/matt.jpg" alt="Matt Murphy" height="128px" width="128px">
-                  <h1>Matt Murphy</h1>
-                  <div class="role-section">
-                    <h1>Web <br> Developer</h1>
-
-                  </div>
-                  <div class="card card-accordion bg-transparent no-shadow">
-                    <div class="card-accordion-heading bg-transparent">
-                      <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
-                    </div>
-                    <div class="card-accordion-content">
-                      <p>My name is Matt & I'm the Website & Software Developer at MAD Marketing. I have been developing
-                        websites, applications, & software for MAD Marketing for over a year now and am extremely
-                        passionate about what I do here and I'm immensely knowledgable and experience in the industry of
-                        Front-end and Back-end design.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="person">
-                  <img src="img/people/steph.jpg" alt="Steph Cleland" height="128px" width="128px">
-                  <h1>Steph Cleland</h1>
-                  <div class="role-section">
-                    <h1>Graphic Designer</h1>
-
-                  </div>
-                  <div class="card card-accordion bg-transparent no-shadow">
-                    <div class="card-accordion-heading bg-transparent">
-                      <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
-                    </div>
-                    <div class="card-accordion-content">
-                      <p>My name is Steph and I'm a graphic designer at MAD Marketing. I completed my Certificate III in
-                        Print Communications last year and am now studying a Bachelor of Communication Design at RMIT. I
-                        especially love designing corporate identities and am ready to make a difference with your
-                        business! Outside of work you'll always find me with my dogs baking sweet treats or watching a
-                        movie. </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="person">
-                  <img src="img/people/hunter.jpg" alt="Hunter Wearne" height="128px" width="128px">
-                  <h1>Hunter Wearne</h1>
-                  <div class="role-section">
-                    <h1>Videographer</h1>
-                  </div>
-                  <div class="card card-accordion bg-transparent no-shadow">
-                    <div class="card-accordion-heading bg-transparent">
-                      <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
-                    </div>
-                    <div class="card-accordion-content">
-                      <p>
-                        Hi my name is Hunter. I am the Videographer and Motion Designer at Mad Marketing. I have a
-                        Certificate IV in Design and currently studying a Certificate IV in Photography. I enjoy hiking,
-                        photography and a good coffee.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="person">
+                <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/josh.jpg" alt="Josh Matammu" height="128px" width="128px">
                   <h1>Josh Matammu</h1>
                   <div class="role-section">
@@ -245,11 +151,11 @@
                 </div>
               </div>
               <div class="col-md-3">
-                <div class="person">
-                  <img src="img/people/will.jpg" alt="Will Strang" height="128px" width="128px">
-                  <h1>Will Strang</h1>
+                <div class="person" style="padding-bottom: 72px;">
+                  <img src="img/people/steph.jpg" alt="Steph Cleland" height="128px" width="128px">
+                  <h1>Steph Cleland</h1>
                   <div class="role-section">
-                    <h1>Videographer</h1>
+                    <h1>Graphic Designer</h1>
                   </div>
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
@@ -258,17 +164,17 @@
                         class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
-                      <p>
-                        My name is Will and I’m a Videographer at MAD Marketing. I completed my Certificate III in Print
-                        Communications and I’m currently doing Certificate IV in Design. Some of my interests are
-                        playing music and gaming.
-                      </p>
+                      <p>My name is Steph and I'm a graphic designer at MAD Marketing. I completed my Certificate III in
+                        Print Communications last year and am now studying a Bachelor of Communication Design at RMIT. I
+                        especially love designing corporate identities and am ready to make a difference with your
+                        business! Outside of work you'll always find me with my dogs baking sweet treats or watching a
+                        movie. </p>
                     </div>
                   </div>
                 </div>
-              </div>.
+              </div>
               <div class="col-md-3">
-                <div class="person">
+                <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/sarah.jpg" alt="Sarah Taylor" height="128px" width="128px">
                   <h1>Sarah Taylor</h1>
                   <div class="role-section">
@@ -292,8 +198,96 @@
                   </div>
                 </div>
               </div>
+              <div class="col-md-3">
+                <div class="person" style="padding-bottom: 72px;">
+                  <img src="img/people/hunter.jpg" alt="Hunter Wearne" height="128px" width="128px">
+                  <h1>Hunter Wearne</h1>
+                  <div class="role-section">
+                    <h1>Videographer</h1>
+                  </div>
+                  <div class="card card-accordion bg-transparent no-shadow">
+                    <div class="card-accordion-heading bg-transparent">
+                      <h6 class="color-grey-5">About Me</h6>
+                      <i data-feather="chevron-down"
+                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                    </div>
+                    <div class="card-accordion-content">
+                      <p>
+                        Hi my name is Hunter. I am the Videographer and Motion Designer at Mad Marketing. I have a
+                        Certificate IV in Design and currently studying a Certificate IV in Photography. I enjoy hiking,
+                        photography and a good coffee.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="person" style="padding-bottom: 72px;">
+                  <img src="img/people/will.jpg" alt="Will Strang" height="128px" width="128px">
+                  <h1>Will Strang</h1>
+                  <div class="role-section">
+                    <h1>Videographer</h1>
+                  </div>
+                  <div class="card card-accordion bg-transparent no-shadow">
+                    <div class="card-accordion-heading bg-transparent">
+                      <h6 class="color-grey-5">About Me</h6>
+                      <i data-feather="chevron-down"
+                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                    </div>
+                    <div class="card-accordion-content">
+                      <p>
+                        My name is Will and I’m a Videographer at MAD Marketing. I completed my Certificate III in Print
+                        Communications and I’m currently doing Certificate IV in Design. Some of my interests are
+                        playing music and gaming.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="person" style="padding-bottom: 72px;">
+                  <img src="img/people/matt.jpg" alt="Matt Murphy" height="128px" width="128px">
+                  <h1>Matt Murphy</h1>
+                  <div class="role-section">
+                    <h1>Full Stack<br> Web Developer</h1>
+                  </div>
+                  <div class="card card-accordion bg-transparent no-shadow">
+                    <div class="card-accordion-heading bg-transparent">
+                      <h6 class="color-grey-5">About Me</h6>
+                      <i data-feather="chevron-down"
+                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                    </div>
+                    <div class="card-accordion-content">
+                      <p>My name is Matt & I'm the Website & Software Developer at MAD Marketing. I have been developing
+                        websites, applications, & software for MAD Marketing for over a year now and am extremely
+                        passionate about what I do here and I'm immensely knowledgable and experience in the industry of
+                        Front-end and Back-end design.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="person" style="padding-bottom: 72px;">
+                  <img src="img/people/Mali.png" alt="Mail" height="128px" width="128px">
+                  <h1>Mali</h1>
+                  <div class="role-section">
+                    <h1>MARKETING<br> DOG</h1>
+                  </div>
+                  <div class="card card-accordion bg-transparent no-shadow">
+                    <div class="card-accordion-heading bg-transparent">
+                      <h6 class="color-grey-5">About Me</h6>
+                      <i data-feather="chevron-down"
+                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                    </div>
+                    <div class="card-accordion-content">
+                      <p>
+                        Enjoys: Melting hearts, chicken, experimental design, sunny photo shoots and Elvis Presley music Dislikes: Hot weather, people who don't give good pats and wet grass. Mali lives for her days in the office providing moral support and well informed feedback to all of the team members. This pup rules the roost and don't let her size fool you!
+                      </P>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <?php include"src/footer.php"?>
-
             </div>
 </body>
 

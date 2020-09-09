@@ -14,6 +14,12 @@
 
 .font-highlight {
   font-family: 'Source Code Pro', monospace !important; }
+
+.grant-btn {
+  padding: 10px 100px !important;
+  border-radius: 100px !important;
+  font-size: 1.5em !important; }
+
 button, a {
   font-family: 'urbane', monospace !important;
   font-weight: 500 !important;

@@ -46,38 +46,41 @@
         <div class="row">
           <div class="col-md-7 details-section">
             <p>
-              We developed a simple and intuitive one-page design for Kustome Tints Albury to convey information on their business & services to clients.
-              This simple design was inspired to follow a high conversion layout.
+              The team worked alongside Dr Ginni to design a website that not only connects with her followers but also puts her ahead of the competition for broadcasting opportunities.
             </p>
             <div class="row">
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="columns" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+          				<i data-feather="globe" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
-                <h6 class="text-bold">Simple One-page design</h6>
+                <h6 class="text-bold">Website</h6>
                 <p>
-                  A unique feel and design to the website with information that is easy to access for clients.
+                  An elegant website design created with our custom CMS that matches the client's personality.
                 </p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="dollar-sign" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+          				<i data-feather="pen-tool" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
-                <h6 class="text-bold">Affordability</h6>
+                <h6 class="text-bold">Logo Design</h6>
                 <p>
-                  An effective high conversion website affordable with a small budget.
+                  Designed a logo that represents her image.
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-5 display-flex flex-vcenter image-section pl-md">
             <div class="text-section right text-right" style="top: -20% !important">
-              <h1>DR GINNI</h1>
+              <h1 style="margin-right: 20px;">DR GINNI</h1>
             </div>
-            <video src="img/work/10.mp4" autoplay muted loop style="z-index: 5;" width="100%" class="image-display-pane no-shadow pl-sm"></video>
+            <div class="owl-carousel pr-sm" style="z-index: 1000;">
+              <div data-merge="2"><img src="img/work/2/dr1.png" class="image-display-pane no-shadow"> </div>
+              <div data-merge="2"><img src="img/work/2/dr2.png" class="image-display-pane no-shadow"> </div>
+              <div data-merge="2"><img src="img/work/2/dr3.png" class="image-display-pane no-shadow"> </div>
+              <div data-merge="2"><img src="img/work/2/dr4.png" class="image-display-pane no-shadow"> </div>
+            </div>
           </div>
         </div>
-        <a style="display: inline-block;" href="https://www.kustomtints.com.au/" btn-text="View Website" class="btn-primary btn-mad btn-highlight btn-text-animate ml-lg"><span>View Website</span></a>
       </div>
       <div class="portfolio-item">
         <div class="row">
@@ -152,7 +155,7 @@
             <div class="text-section right text-right" style="top: -20% !important">
               <h1>Malibu Boats</h1>
             </div>
-            <img src="img/work/11.jpg" alt="Premium website design" style="z-index: 5;" width="100%" class="image-display-pane">
+            <img src="img/work/2/malibu-cards.png" alt="Premium website design" style="z-index: 5;" width="100%" class="image-display-pane">
           </div>
         </div>
       </div>

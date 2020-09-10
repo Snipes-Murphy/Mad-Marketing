@@ -55,7 +55,7 @@
               <h1>INFORMATION</h1>
               <h2></h2>
             </div>
-            <img src="img/grant/Grant Equation.png" class="image-display-pane" style="max-width: 100%;position: relative; z-index: 5;">
+            <img src="img/grant/marketing.png" style="max-width: 100%;position: relative; z-index: 5;">
           </div>
 
           <div class="col-lg-7 details-section">
@@ -77,7 +77,7 @@
                 info@madmarketinggroup.com.au
                 </p>
               <div class="row">
-                <div class="col-lg-6 px-lg">
+                <div class="col-lg-6">
                   <a href="mailto:info@madmarketinggroup.com.au"><button type="button" name="button" class="grant-btn btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Apply Now"><span>Apply Now</span></button></a>
             		</div>
               </div>

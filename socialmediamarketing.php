@@ -57,8 +57,8 @@
           </div>
           <div class="col-md-7 details-section">
             <div>
-              <h1>Easy as that.</h1>
-              <p>Social media marketing utilises social media platforms, like facebook, instagram, linkedin or youtube to deliver unique and relevant content to users. Delivered correctly, those users will then share with social networks, which helps to grow reach,exposure and sales opportunities for brands, directly to their target market.
+              <h1>Easy as that</h1>
+              <p>Social media marketing utilises social media platforms, like facebook, instagram, linkedin or youtube to deliver unique and relevant content to users. Delivered correctly, those users will then share with social networks, which helps to grow reach, exposure and sales opportunities for brands, directly to their target market.
               <br><br>
               Many businesses tend to go about their social media marketing the wrong way, believing that just having a social media presence and sharing their information intermittently on every conceivable platform is enough.</p>
             </div>

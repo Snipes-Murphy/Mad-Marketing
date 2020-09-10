@@ -39,8 +39,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
       </div>
-      <a href="/grant.php"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Marketing Grant"><span>Marketing Grant</span></button></a>
-      <a href="/creativepackage.php"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Creative Package"><span>Creative Package</span></button></a>
+      <a href="grant.php"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Marketing Grant"><span>Marketing Grant</span></button></a>
+      <a href="creativepackage.php"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Creative Package"><span>Creative Package</span></button></a>
       <a href="mailto:hi@madmarketinggroup.com.au" class="pull-right" style="margin-left: auto;"><button class="btn-primary bg-mad-grad btn-round bg-react btn-no-highlight btn-text-animate" btn-text="Make A Difference"><span>Make A Difference</span></button></a>
     </div>
     <button class="nav-btn nav-btn-menu"><i data-feather="menu" class="f-icon f-stroke-2"></i></button>

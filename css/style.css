@@ -112,7 +112,7 @@ button, a {
   text-align: right !important; }
 
 .header {
-  height: 100vh;
+  height: 92vh;
   width: 100%;
   display: block;
   overflow-x: visible; }
@@ -182,7 +182,7 @@ button, a {
     width: 50vw;
     z-index: 4;
     position: absolute;
-    top: -30%;
+    top: -15%;
     left: -0%;
     text-align: left; }
   .how-we-work .details-section {

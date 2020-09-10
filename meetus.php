@@ -268,7 +268,7 @@
               </div>
               <div class="col-md-3">
                 <div class="person" style="padding-bottom: 72px;">
-                  <img src="img/people/Mali.png" alt="Mali" height="128px" width="128px">
+                  <img src="img/people/mali.png" alt="Mali" height="128px" width="128px">
                   <h1>Mali</h1>
                   <div class="role-section">
                     <h1>MARKETING<br> DOG</h1>

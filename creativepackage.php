@@ -34,7 +34,7 @@
             </div>
           </div>
           <div class="col-md-8 hero-header" style="z-index:5">
-            <video src="img/grant/Creative Package VIDEO - FINAL.mp4" controls autoplay muted loop style="z-index: 5;" width="100%" class="image-display-pane">
+            <video src="img/grant/creative-video.mp4" controls autoplay muted loop style="z-index: 5;" width="100%" class="image-display-pane">
             <div class="hero-bg"></div>
           </div>
         </div>
@@ -49,7 +49,7 @@
                   <h1>CONTENT WITH <BR>A PURPOSE</h1>
                   <h2></h2>
                 </div>
-            <img src="img/grant/creativepackage.svg" alt="Premium marketing" style="z-index: 5;" width="100%">
+            <img src="img/grant/websearch.png" alt="Premium marketing" style="z-index: 5;" width="100%">
           </div>
           <div class="col-md-7 details-section">
                <h1>Limited Spots Available</h1>

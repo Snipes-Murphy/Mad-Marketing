@@ -28,7 +28,7 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>Where your brand does business.</h1>
+              <h1>Where your brand does business</h1>
               <p class="font-lg">We deliver robust web presence, that always converts <br>into sales.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
@@ -69,7 +69,7 @@
           				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">How we compete?</h6>
-                <p class="my-sm">SEO is not only about search engines but good SEO practices improve the user experience and usability of a web site, this is what we're good at.</p>
+                <p class="my-sm">SEO is not only about search engines but good SEO practices improve the user experience and usability of a website, this is what we're good at.</p>
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@
         <div class="row">
           <div class="col-md-7 details-section">
             <div>
-              <h1>Easy as that.</h1>
+              <h1>Easy as that</h1>
               <p>Running your organisation without one in this digital savvy landscape, creates a credibility gap that you can no longer afford. SEO Services with functionality and smart mapping combined with an attractive and easy to use interface, creates a destination that entices and ensnares your ideal client.</p>
             </div>
           </div>

@@ -33,7 +33,7 @@
         <div class="col-md-6 display-flex flex-vcenter">
           <div style="z-index: 6;">
             <h1>Lets introduce ourselves.</h1>
-            <p class="font-lg">Teamwork begins by building trust, alone we can do so little; together we can do so much.
+            <p class="font-lg">"Teamwork begins by building trust, alone we can do so little; together we can do so much."
             </p>
             <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button"
                 class="btn-primary btn-mad btn-highlight btn-text-animate"

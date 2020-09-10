@@ -28,7 +28,7 @@
             <div style="z-index: 6;">
               <h1>Marketing Grant</h1>
               <p class="font-lg">The team at Mad Marketing are on a quest to build and showcase our
-              portfolio and what better way to do it than helping local businesses in
+              portfolio and what better way to do it than by helping local businesses in
               these difficult times.
                </p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="grant-btn btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Apply Now"><span>Apply Now</span></button></a>

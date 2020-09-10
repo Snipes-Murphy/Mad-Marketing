@@ -79,14 +79,14 @@
           				<i data-feather="dollar-sign" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Digital Marketing</h6>
-                <p class="my-sm">Digital Marketing is where innovation exists and the next generation of the advertising world.</p>
+                <p class="my-sm">Digital Marketing is where innovation exists and is the next generation of the advertising world.</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
           				<i data-feather="crop" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Brand Design</h6>
-                <p class="my-sm">The identity of your business, it's through branding where you can build a loyal customer base that knows you.</p>
+                <p class="my-sm">The identity of your business, it's through branding that you can build a loyal customer base that knows you.</p>
               </div>
             </div>
           </div>
@@ -97,8 +97,8 @@
           <div class="col-md-7 details-section pt-lg">
             <p>
               Mad Marketing provides innovative marketing strategies to bring an immense amount of impressions and from there convert them into
-              conversions, we ensure we know your industry before bringing you on and taking any of your capital, this lets us provide you with quicker
-              Returns On your Investments.
+              conversions. We ensure we know your industry before bringing you on and taking any of your capital, this lets us provide you with quicker
+              returns on your investments.
             </p>
             <div class="row">
               <div class="col-lg-6 px-lg">
@@ -116,7 +116,7 @@
                 </div>
                 <h6 class="text-bold">Starting Price</h6>
                 <p>
-                  All marketing management plans start at $1500, that covers ad budget and campaign management.
+                  All marketing management plans start at $1575, which covers ad budget and campaign management.
                 </p>
               </div>
             </div>

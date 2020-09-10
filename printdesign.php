@@ -60,7 +60,7 @@
           				<i data-feather="layout" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Unique Designs</h6>
-                <p class="my-sm">Brands developed from scratch to major creative campaigns, our team will work with you to find your design style.</p>
+                <p class="my-sm">Brands developed from scratch to major creative campaigns. Our team will work with you to find your design style.</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
@@ -81,7 +81,7 @@
           				<i data-feather="book-open" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Sample Design Copies</h6>
-                <p class="my-sm">In all the steps of creation, we always keep you in the loop giving you sample concept designs and range of options to develop the end result.</p>
+                <p class="my-sm">In all the steps of creation, we always keep you in the loop, giving you sample concept designs and a range of options to develop the end result.</p>
               </div>
             </div>
           </div>

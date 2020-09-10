@@ -29,7 +29,7 @@
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
               <h1>How do we make websites?</h1>
-              <p class="font-lg">We design websites to turn impressions into customers, for now and into the future.</p>
+              <p class="font-lg">We design websites to turn impressions into customers, now and into the future.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>

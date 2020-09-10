@@ -83,7 +83,7 @@
             				<i data-feather="airplay" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                   </div>
                   <h6 class="text-bold">Promotion</h6>
-                  <p class="my-sm">This P relates to the advertising, sales, and, offers, etc and the channels they use to convey the message to the end user.</p>
+                  <p class="my-sm">This P relates to the advertising, sales, offers, etc and the channels they use to convey the message to the end user.</p>
                 </div>
               </div>
             </div>

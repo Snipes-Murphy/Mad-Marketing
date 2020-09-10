@@ -79,7 +79,7 @@
             				<i data-feather="map" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                   </div>
                   <h6 class="text-bold">Locally based</h6>
-                  <p class="my-sm">Because we are Albury based, you don’t need to worry about travel fees from the agencies in the cities. Locals supporting locals.</p>
+                  <p class="my-sm">Because we are Albury based, you don’t need to worry about travel fees from the agencies in the cities.</p>
                 </div>
               </div>
             </div>

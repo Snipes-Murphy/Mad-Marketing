@@ -62,14 +62,14 @@
           				<i data-feather="layout" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">How does it help?</h6>
-                <p class="my-sm">Optimizing your website for search engines will give you an advantage over non-optimized sites and you increase your chances to rank higher.</p>
+                <p class="my-sm">Optimising your website for search engines will give you an advantage over non-optimised sites and can increase your chances of ranking higher.</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
           				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">How we compete?</h6>
-                <p class="my-sm">SEO is not only about search engines but good SEO practices improve the user experience and usability of a website, this is what we're good at.</p>
+                <p class="my-sm">SEO is not only about search engines, good SEO practices improve the user experience and usability of a website, this is what we're good at.</p>
               </div>
             </div>
           </div>
@@ -83,7 +83,7 @@
           <div class="col-md-7 details-section">
             <div>
               <h1>Easy as that</h1>
-              <p>Running your organisation without one in this digital savvy landscape, creates a credibility gap that you can no longer afford. SEO Services with functionality and smart mapping combined with an attractive and easy to use interface, creates a destination that entices and ensnares your ideal client.</p>
+              <p>Running your organisation without one in this digital savvy landscape creates a credibility gap that you can no longer afford. SEO Services with functionality and smart mapping combined with an attractive and easy to use interface creates a destination that entices and ensnares your ideal client.</p>
             </div>
           </div>
           <div class="col-md-5 display-flex flex-vcenter image-section">

@@ -96,7 +96,7 @@
           </div>
           <div class="col-md-7 details-section">
             <p class="ml-lg">
-              We worked with You Health & Nutrition Science in increasing their overall sales through creating content
+              We worked with You Health & Nutrition Science to increase their overall sales by creating content
               (Photo, Videos & Graphics) & managing social media posts to increase brand awareness.
             </p>
             <div class="row ml-lg">
@@ -323,7 +323,7 @@
           </div>
           <div class="col-md-7 details-section">
             <p  class="ml-lg">
-              We were tasked with creating a new, improved and unique website for Albury Cabinet Coatings. Our web developers designed a website that is easy to use for potential customers while having an intuitive back-end system
+              We were tasked with creating a unique, new and improved website for Albury Cabinet Coatings. Our web developers designed a website that is easy to use for potential customers while having an intuitive back-end system
               that they can use to manage & edit their websites even without knowing how to code.
             </p>
             <div class="row ml-lg">

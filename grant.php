@@ -55,7 +55,7 @@
               <h1>INFORMATION</h1>
               <h2></h2>
             </div>
-            <img src="img/grant/marketing.png" style="max-width: 100%;position: relative; z-index: 5;">
+            <img src="img/grant/img-grant.png" style="max-width: 100%;position: relative; z-index: 5;">
           </div>
 
           <div class="col-lg-7 details-section">

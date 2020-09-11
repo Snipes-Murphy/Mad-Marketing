@@ -26,14 +26,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <a href="aboutus.php">About us</a>
               <a href="photostudio.php">Photography Studio Hire</a>
             </div>
+          </div>
+        </div>
+      </div>
+      <div class="dropdown">
+        <button class="nav-btn dropdown-item font-md btn-text-animate text-toggle" btn-text="Services"><span>Services</span></button>
+        <div class="dropdown-content dropdown-grid text-bold">
+        <div class="dropdown-row">
             <div class="col">
               <h6>What We Do?</h6>
               <a href="websites.php">Website Design</a>
-              <a href="printdesign.php">Print Design & Publication</a>
+              <a href="photography.php">Photography & Videography</a>
               <a href="graphicandbrand.php">Graphic & Brand Design</a>
-              <a href="photography.php">Photography</a>
               <a href="socialmediamarketing.php">Social Media Marketing</a>
-              <a href="seo.php">SEO Marketing</a>
+              <a href="motion.php">Motion Graphics</a>
+              <a href="seo.php">SEO Management</a>
+              <a href="printdesign.php">Print Design & Publication</a>
               <a href="mailto:hi@madmarketinggroup.com.au">Not what you're looking for?</a>
             </div>
           </div>

@@ -42,7 +42,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <a href="motion.php">Motion Graphics</a>
               <a href="seo.php">SEO Management</a>
               <a href="printdesign.php">Print Design & Publication</a>
-              <a href="mailto:hi@madmarketinggroup.com.au">Not what you're looking for?</a>
+              <!--<a href="mailto:hi@madmarketinggroup.com.au">Not what you're looking for?</a>-->
             </div>
           </div>
         </div>

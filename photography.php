@@ -32,7 +32,7 @@
       <div class="header-content row">
         <div class="col-md-6 display-flex flex-vcenter">
           <div style="z-index: 6;">
-            <h1>Professional Photos & Videos for you</h1>
+            <h1>Professional photos & videos for you</h1>
             <p class="font-lg">Lets work to elevate your business through the use of Photo & Video content.</p>
             <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button"
                 class="btn-primary btn-mad btn-highlight btn-text-animate"
@@ -40,7 +40,7 @@
           </div>
         </div>
         <div class="col-md-6 hero-header" style="z-index:5">
-          <img src="img/illustrations/8.svg" alt="Premium website design" style="z-index: 5;" width="100%">
+          <img src="img/illustrations/18.svg" alt="Premium website design" style="z-index: 5;" width="100%">
           <div class="hero-bg"></div>
         </div>
       </div>
@@ -74,7 +74,7 @@
                   <i data-feather="users" class="text-grey-4"
                     style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
-                <h6 class="text-bold">Collaboration</h6>
+                <h6 class="text-bold">Collaborative</h6>
                 <p class="my-sm">We work with you to figure out the best way to capture your business. Emotive,
                   professional, full of energy & passion.</p>
               </div>

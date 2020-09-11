@@ -42,7 +42,7 @@
             <img src="img/illustrations/8.svg" alt="Premium website design" style="z-index: 5;" width="100%">
             <div class="hero-bg"></div>
             <div class="text-section text-right">
-              <h1>Design</h1>
+              <h1>studio</h1>
             </div>
           </div>
         </div>
@@ -52,17 +52,17 @@
         <div class="hero-ambient-2"></div>
         <div class="row">
           <div class="col-md-7 details-section pr-lg" id="info">
+          <div class="text-section right" style="top: -93px !important; text-align: left !important; right: 19px; left: auto;">
+              <h1>create</h1>
+            </div>
             <div>
-              <h1>High Engagement</h1>
               <p>Whether you're a business, photographer or a videographer requiring a studio space for a client to take amazing product shots, we have the space for you. Contact us if you would like to pre-purchase time so you can get this amazing deal. Photographers and Videographers can also be available on request.</p>
 
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight">Book Now!</button></a>
             </div>
           </div>
           <div class="col-md-5 display-flex flex-vcenter image-section pr-md">
-            <div class="text-section right" style="top: -93px !important; text-align: right !important; right: 19px; left: auto;">
-              <h1>Videography</h1>
-            </div>
+            
             <img src="img/studio/photography.png" width="100%" style="z-index: 999999999;">
           </div>
         </div>

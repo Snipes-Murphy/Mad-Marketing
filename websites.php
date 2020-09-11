@@ -28,13 +28,13 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>How do we make websites?</h1>
-              <p class="font-lg">We design websites to turn impressions into customers, now and into the future.</p>
+              <h1>Your website is your home</h1>
+              <p class="font-lg">We design websites to turn impressions into customers, <br>now and into the future.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">
-            <img src="img/illustrations/7.svg" alt="Premium website design" class="mt-lg" style="z-index: 5;" width="100%">
+            <img src="img/illustrations/17.svg" alt="Premium website design" class="mt-lg" style="z-index: 5;" width="100%">
             <div class="hero-bg"></div>
             <div class="text-section text-right">
               <h1>Design</h1>
@@ -64,7 +64,7 @@
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
           				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
-                <h6 class="text-bold">It's Responsive</h6>
+                <h6 class="text-bold">Responsive</h6>
                 <p class="my-sm">No matter how your client finds you - on mobile, tablet or desktop. Our websites will ensure you are found across search engine platforms.</p>
               </div>
               <div class="col-lg-6 px-lg">

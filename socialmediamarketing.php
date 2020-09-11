@@ -29,7 +29,7 @@
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
               <h1>Influence is not popularity</h1>
-              <p class="font-lg">We produce leads using things that concern them, not the traditional way.</p>
+              <p class="font-lg">Reach your audience to communicate and build relationships and brand loyalty.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-text-animate btn-highlight" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>
@@ -37,7 +37,7 @@
             <img src="img/illustrations/13.svg" alt="Premium website design" class="mt-xlg" style="z-index: 5;" width="100%">
             <div class="hero-bg"></div>
             <div class="text-section text-right">
-              <h1>Design</h1>
+              <h1>Reach</h1>
               <h2>01</h2>
             </div>
           </div>
@@ -50,17 +50,14 @@
         <div class="row">
           <div class="col-md-5 display-flex flex-vcenter image-section pr-md">
             <div class="text-section">
-              <h1>Prototype</h1>
+              <h1>Awareness</h1>
               <h2>02</h2>
             </div>
             <img src="img/illustrations/1.svg" alt="Premium website design" style="z-index: 5;" width="100%">
           </div>
           <div class="col-md-7 details-section">
             <div>
-              <h1>Easy as that</h1>
-              <p>Social media marketing utilises social media platforms, like facebook, instagram, linkedin or youtube to deliver unique and relevant content to users. Delivered correctly, those users will then share with social networks, which helps to grow reach, exposure and sales opportunities for brands, directly to their target market.
-              <br><br>
-              Many businesses tend to go about their social media marketing the wrong way, believing that just having a social media presence and sharing their information intermittently on every conceivable platform is enough.</p>
+              <p>Social media marketing utilises social media platforms like Facebook, Instagram, Linkedin or YouTube to deliver unique and relevant content to users. Delivered correctly, those users will can help grow reach, exposure and sales opportunities for brands, directly to their target market.
             </div>
           </div>
         </div>

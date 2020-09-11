@@ -66,9 +66,9 @@
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+          				<i data-feather="help-circle" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
-                <h6 class="text-bold">How we compete?</h6>
+                <h6 class="text-bold">What else?</h6>
                 <p class="my-sm">SEO is not only about search engines, good SEO practices improve the user experience and usability of a website.</p>
               </div>
             </div>

@@ -28,8 +28,8 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>Where your brand does business</h1>
-              <p class="font-lg">We deliver robust web presence, that always converts <br>into sales.</p>
+              <h1>Be found when looked for</h1>
+              <p class="font-lg">We make sure you are found when people make a seach in your industry.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>
@@ -50,7 +50,7 @@
         <div class="row">
           <div class="col-md-5 display-flex flex-vcenter image-section">
             <div class="text-section">
-              <h1>Developing</h1>
+              <h1>discovered</h1>
               <h2>02</h2>
             </div>
             <img src="img/illustrations/2.svg" alt="Premium website design" style="z-index: 5;" width="100%">
@@ -62,14 +62,14 @@
           				<i data-feather="layout" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">How does it help?</h6>
-                <p class="my-sm">Optimising your website for search engines will give you an advantage over non-optimised sites and can increase your chances of ranking higher.</p>
+                <p class="my-sm">A Search Engine Optimised website puts you First when people search for a product or service in your industry.</p>
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
           				<i data-feather="play" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">How we compete?</h6>
-                <p class="my-sm">SEO is not only about search engines, good SEO practices improve the user experience and usability of a website, this is what we're good at.</p>
+                <p class="my-sm">SEO is not only about search engines, good SEO practices improve the user experience and usability of a website.</p>
               </div>
             </div>
           </div>
@@ -79,20 +79,6 @@
         <div class="hero-ambient-1"></div>
         <div class="hero-ambient-2"></div>
         <div class="hero-ambient-3"></div>
-        <div class="row">
-          <div class="col-md-7 details-section">
-            <div>
-              <h1>Easy as that</h1>
-              <p>Running your organisation without one in this digital savvy landscape creates a credibility gap that you can no longer afford. SEO Services with functionality and smart mapping combined with an attractive and easy to use interface creates a destination that entices and ensnares your ideal client.</p>
-            </div>
-          </div>
-          <div class="col-md-5 display-flex flex-vcenter image-section">
-            <div class="text-section text-right">
-              <h1>Delivering</h1>
-              <h2>03</h2>
-            </div>
-          </div>
-        </div>
       </div>
       <?php include"src/footer.php"?>
     </div>

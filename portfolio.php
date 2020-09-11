@@ -97,7 +97,7 @@
           <div class="col-md-7 details-section">
             <p class="ml-lg">
               We worked with You Health & Nutrition Science to increase their overall sales by creating content
-              (Photo, Videos & Graphics) & managing social media posts to increase brand awareness.
+              (photo, videos & graphics) & managing social media posts to increase brand awareness.
             </p>
             <div class="row ml-lg">
               <div class="col-lg-6 px-lg">

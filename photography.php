@@ -33,7 +33,7 @@
         <div class="col-md-6 display-flex flex-vcenter">
           <div style="z-index: 6;">
             <h1>Professional photos & videos for you</h1>
-            <p class="font-lg">Lets work to elevate your business through the use of Photo & Video content.</p>
+            <p class="font-lg">Elevate your business through the use of photo & video content.</p>
             <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button"
                 class="btn-primary btn-mad btn-highlight btn-text-animate"
                 btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
@@ -53,8 +53,11 @@
           <div class="text-section">
             <h1>Photography</h1>
           </div>
-          <img src="img/work/6/1.jpg" alt="Premium website design" class="image-display-pane" style="z-index: 5;"
-            width="100%">
+          <div class="owl-carousel pr-sm" style="z-index: 1000;">
+            <div data-merge="2"><img src="img/photography/IMG_2972.jpg" class="image-display-pane no-shadow"> </div>
+            <div data-merge="2"><img src="img/photography/IMG_3549.jpg" class="image-display-pane no-shadow"> </div>
+            <div data-merge="2"><img src="img/photography/IMG_4542.jpg" class="image-display-pane no-shadow"> </div>
+          </div>
         </div>
         <div class="col-md-7 details-section">
           <div>

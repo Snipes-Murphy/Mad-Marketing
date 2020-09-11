@@ -79,7 +79,6 @@
               <div data-merge="2"><img src="img/work/2/dr3.png" class="image-display-pane no-shadow"> </div>
               <div data-merge="2"><img src="img/work/2/dr4.png" class="image-display-pane no-shadow"> </div>
             </div>
-            <div class="dots flex-100"></div>
           </div>
         </div>
       </div>
@@ -94,7 +93,6 @@
               <div data-merge="2"><img src="img/work/6/IMG_2972.jpg" class="image-display-pane no-shadow"> </div>
               <div data-merge="2"><img src="img/work/6/IMG_3003.jpg" class="image-display-pane no-shadow"> </div>
             </div>
-            <div class="dots flex-100"></div>
           </div>
           <div class="col-md-7 details-section">
             <p class="ml-lg">
@@ -174,7 +172,6 @@
             <div data-merge="2"><img src="img/work/2/2.jpg" class="image-display-pane no-shadow"> </div>
             <div data-merge="2"><img src="img/work/2/3.jpg" class="image-display-pane no-shadow"> </div>
           </div>
-          <div class="dots flex-100"></div>
         </div>
           <div class="col-md-7 details-section">
             <p class="ml-lg">

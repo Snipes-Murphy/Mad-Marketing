@@ -25,28 +25,31 @@
 <script type="text/javascript">
   $(document).ready(function(){
     $(".owl-carousel").owlCarousel();
+    $(".owl-carousel-photo").owlCarousel();
     $(".owl-photo-gallery").owlCarousel();
   });
 
   $('.owl-carousel').owlCarousel({
-      items: 1,
-      merge: true,
-      loop: true,
-      margin: 10,
-      video: true,
-      lazyLoad: true,
-      autoplay: true,
-      autoplayTimeout: 7500,
-      autoplayHoverPause: true,
-      responsive:{
-        480:{
-          items: 1
-        },
-        600:{
-          items: 2
-        }
+    items: 1,
+    merge: true,
+    dots: true,
+    loop: true,
+    margin: 10,
+    video: true,
+    lazyLoad: true,
+    autoplay: true,
+    autoplayTimeout: 3500,
+    dotsContainer: '.dots',
+    autoplayHoverPause: true,
+    responsive:{
+      480:{
+        items: 1
+      },
+      600:{
+        items: 2
       }
-    })
+    }
+  })
 
   Vue.component('meta-data', {
     props: ['title', 'description', 'keywords'],

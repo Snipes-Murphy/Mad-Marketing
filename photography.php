@@ -49,15 +49,16 @@
       <div class="hero-ambient-1"></div>
       <div class="hero-ambient-2"></div>
       <div class="row">
-        <div class="col-md-5 display-flex flex-vcenter image-section pr-md">
+        <div class="col-md-5 display-flex flex-vcenter image-section flex-wrap pr-md">
           <div class="text-section">
             <h1>Photography</h1>
           </div>
-          <div class="owl-carousel pr-sm" style="z-index: 1000;">
-            <div data-merge="2"><img src="img/photography/IMG_2972.jpg" class="image-display-pane no-shadow"> </div>
-            <div data-merge="2"><img src="img/photography/IMG_3549.jpg" class="image-display-pane no-shadow"> </div>
-            <div data-merge="2"><img src="img/photography/IMG_4542.jpg" class="image-display-pane no-shadow"> </div>
+          <div class="owl-carousel pr-sm" style="z-index: 1000">
+            <div data-merge="2"><img src="img/photography/IMG_2972.jpg" class="image-display-pane no-shadow" width="100%"> </div>
+            <div data-merge="2"><img src="img/photography/IMG_3549.jpg" class="image-display-pane no-shadow" width="100%"> </div>
+            <div data-merge="2"><img src="img/photography/IMG_4542.jpg" class="image-display-pane no-shadow" width="100%"> </div>
           </div>
+          <div class="dots flex-100"></div>
         </div>
         <div class="col-md-7 details-section">
           <div>

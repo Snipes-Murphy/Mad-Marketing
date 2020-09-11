@@ -72,6 +72,7 @@
             <div data-merge="1"><img src="img/studio/2.jpg" class="image-display-pane no-shadow"> </div>
             <div data-merge="1"><img src="img/studio/3.jpg" class="image-display-pane no-shadow"> </div>
           </div>
+          <div class="dots flex-100"></div>
         </div>
       </div>
       <?php include"src/footer.php"?>

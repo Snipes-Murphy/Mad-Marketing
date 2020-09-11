@@ -79,6 +79,7 @@
               <div data-merge="2"><img src="img/work/2/dr3.png" class="image-display-pane no-shadow"> </div>
               <div data-merge="2"><img src="img/work/2/dr4.png" class="image-display-pane no-shadow"> </div>
             </div>
+            <div class="dots flex-100"></div>
           </div>
         </div>
       </div>
@@ -93,6 +94,7 @@
               <div data-merge="2"><img src="img/work/6/IMG_2972.jpg" class="image-display-pane no-shadow"> </div>
               <div data-merge="2"><img src="img/work/6/IMG_3003.jpg" class="image-display-pane no-shadow"> </div>
             </div>
+            <div class="dots flex-100"></div>
           </div>
           <div class="col-md-7 details-section">
             <p class="ml-lg">
@@ -172,6 +174,7 @@
             <div data-merge="2"><img src="img/work/2/2.jpg" class="image-display-pane no-shadow"> </div>
             <div data-merge="2"><img src="img/work/2/3.jpg" class="image-display-pane no-shadow"> </div>
           </div>
+          <div class="dots flex-100"></div>
         </div>
           <div class="col-md-7 details-section">
             <p class="ml-lg">
@@ -234,7 +237,7 @@
             <div class="text-section right text-right" style="top: -2 0% !important">
               <h1>Kustom Tints</h1>
             </div>
-            <video src="img/work/10.mp4" autoplay muted loop style="z-index: 5;" width="100%" class="image-display-pane no-shadow pl-sm"></video>
+            <video src="img/work/10.mp4" autoplay controls muted loop style="z-index: 5;" width="100%" class="image-display-pane no-shadow pl-sm"></video>
           </div>
         </div>
         <a style="display: inline-block;" href="https://www.kustomtints.com.au/" btn-text="View Website" class="btn-primary btn-mad btn-highlight btn-text-animate ml-lg"><span>View Website</span></a>
@@ -245,7 +248,7 @@
             <div class="text-section left" style="top: -20%">
               <h1>Scots School Albury</h1>
             </div>
-            <video src="img/work/8.mp4" autoplay muted loop style="z-index: 5;" width="100%" class="image-display-pane">
+            <video src="img/work/8.mp4" autoplay controls muted loop style="z-index: 5;" width="100%" class="image-display-pane">
             </video>
           </div>
           <div class="col-md-7 details-section">
@@ -307,7 +310,7 @@
             <div class="text-section right text-right" style="top: -20% !important">
               <h1>R+M Builders</h1>
             </div>
-            <video src="img/work/4.mp4" autoplay muted loop style="z-index: 5;" width="100%" class="image-display-pane">
+            <video src="img/work/4.mp4" autoplay controls muted loop style="z-index: 5;" width="100%" class="image-display-pane">
             </video>
           </div>
         </div>
@@ -382,7 +385,7 @@
             <div class="text-section right text-right" style="top: -12% !important;">
               <h1>Albury Travel</h1>
             </div>
-            <video src="img/work/7.mp4" autoplay muted loop style="z-index: 5;" width="100%" class="image-display-pane">
+            <video src="img/work/7.mp4" autoplay controls muted loop style="z-index: 5;" width="100%" class="image-display-pane">
             </video>
           </div>
         </div>

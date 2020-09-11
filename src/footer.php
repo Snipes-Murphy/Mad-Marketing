@@ -38,7 +38,7 @@
     video: true,
     lazyLoad: true,
     autoplay: true,
-    autoplayTimeout: 3500,
+    autoplayTimeout: 2000,
     dotsContainer: '.dots',
     autoplayHoverPause: true,
     responsive:{

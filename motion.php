@@ -46,7 +46,7 @@
         <div class="row">
           <div class="col-md-7 details-section">
             <p>
-              The team worked alongside Dr Ginni to design a website that not only connects with her followers but also puts her ahead of the competition for broadcasting opportunities.
+              The team worked along side EBM to create content for their first official campaign. All great video content needs a great logo animation and because EBM uses a tennis ball to help push their message, the logo animation turned out awesome. 
             </p>
           <!--  <div class="row">
               <div class="col-lg-6 px-lg">
@@ -93,8 +93,7 @@
           </div>
           <div class="col-md-7 details-section">
             <p class="ml-lg">
-              We worked with You Health & Nutrition Science to increase their overall sales by creating content
-              (Photo, Videos & Graphics) & managing social media posts to increase brand awareness.
+              Forging Excalibur knew exactly what they wanted and how they wanted the animation to be seen by the viewer. The team not only reached expectations but smashed it out of the water.
             </p>
           </div>
         </div>
@@ -103,8 +102,7 @@
         <div class="row">
           <div class="col-md-7 details-section">
             <p class="pr-lg">
-              The development team were tasked with revamping the Malibu Boats dealers page. We innovated a table
-              into eye catching cards with single click call to actions.
+              A logo animation was something the team needed for advertising campaigns, BBB had no ideas so we came up with a concept and we went and ran with it. 
             </p>
           </div>
           <div class="col-md-5 display-flex flex-vcenter image-section">
@@ -127,8 +125,7 @@
         </div>
           <div class="col-md-7 details-section">
             <p class="ml-lg">
-              We were given the green light to design the whole brand, illustrations, website and logo. In this project, we decided to retain the
-              shape of the old logo while modernizing it through creating a whole new color pallete, website and design style.
+              IMCO Australasia needed a final touch for their website and as they manufacture concrete products, this animation was spot on.
             </p>
         </div>
       </div>

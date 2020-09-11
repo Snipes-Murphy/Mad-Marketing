@@ -106,7 +106,7 @@
             </p>
           </div>
           <div class="col-md-5 display-flex flex-vcenter image-section">
-            <div class="text-section right text-right" style="top: -35% !important">
+            <div class="text-section right text-right" style="top: -48% !important">
               <h1>Black Barrel Barbecue</h1>
             </div>
               <video src="img/logo-motion/bbq.mp4" autoplay="" muted="" loop="" style="z-index: 5;" width="100%" class="image-display-pane"> 

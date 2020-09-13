@@ -28,7 +28,7 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>Our Portfolio.</h1>
+              <h1>Our Portfolio</h1>
               <p class="font-lg">Our latest work is presented here. We've worked with over 50 clients in different industries, all with exeptional experiences.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
@@ -69,7 +69,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-5 display-flex flex-vcenter image-section pl-md">
+          <div class="col-md-5 display-flex flex-vcenter flex-wrap image-section pl-md">
             <div class="text-section right text-right" style="top: -20% !important">
               <h1 style="margin-right: 20px;">DR GINNI</h1>
             </div>
@@ -79,12 +79,13 @@
               <div data-merge="2"><img src="img/work/2/dr3.png" class="image-display-pane no-shadow"> </div>
               <div data-merge="2"><img src="img/work/2/dr4.png" class="image-display-pane no-shadow"> </div>
             </div>
+            <div class="dots flex-100"></div>
           </div>
         </div>
       </div>
       <div class="portfolio-item">
         <div class="row">
-          <div class="col-md-5 display-flex flex-vcenter image-section">
+          <div class="col-md-5 display-flex flex-vcenter flex-wrap image-section">
             <div class="text-section left text-left" style="top: -30% !important">
               <h1>YOU HEALTH & NUTRITION SCIENCE</h1>
             </div>
@@ -93,6 +94,7 @@
               <div data-merge="2"><img src="img/work/6/IMG_2972.jpg" class="image-display-pane no-shadow"> </div>
               <div data-merge="2"><img src="img/work/6/IMG_3003.jpg" class="image-display-pane no-shadow"> </div>
             </div>
+            <div class="dots flex-100"></div>
           </div>
           <div class="col-md-7 details-section">
             <p class="ml-lg">
@@ -102,7 +104,7 @@
             <div class="row ml-lg">
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="clock" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+          				<i data-feather="calendar" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Scheduled Posts</h6>
                 <p>
@@ -144,7 +146,7 @@
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
           				<i data-feather="bar-chart" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
-                <h6 class="text-bold">Robust Traffic Increase</h6>
+                <h6 class="text-bold">Traffic Increase</h6>
                 <p>
                   Created ways to generate traffic for Malibu dealership's websites.
                 </p>
@@ -161,7 +163,7 @@
       </div>
       <div class="portfolio-item mb-lg" style="margin-top: 300px">
         <div class="row">
-        <div class="col-md-5 display-flex flex-vcenter image-section pl-sm">
+        <div class="col-md-5 display-flex flex-vcenter flex-wrap image-section pl-sm">
           <div class="text-section left" style="top: -20% !important">
             <h1>FadedServers</h1>
           </div>
@@ -172,6 +174,7 @@
             <div data-merge="2"><img src="img/work/2/2.jpg" class="image-display-pane no-shadow"> </div>
             <div data-merge="2"><img src="img/work/2/3.jpg" class="image-display-pane no-shadow"> </div>
           </div>
+          <div class="dots flex-100"></div>
         </div>
           <div class="col-md-7 details-section">
             <p class="ml-lg">
@@ -181,7 +184,7 @@
             <div class="row ml-lg">
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="user" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+          				<i data-feather="pen-tool" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
                 <h6 class="text-bold">Amazing graphics</h6>
                 <p>

@@ -61,7 +61,7 @@
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight">Book Now!</button></a>
             </div>
           </div>
-          <div class="col-md-5 display-flex flex-vcenter image-section pr-md">
+          <div class="col-md-5 display-flex flex-vcenter flex-wrap image-section pr-md">
             
             <img src="img/studio/photography.png" width="100%" style="z-index: 999999999;">
           </div>
@@ -70,8 +70,10 @@
           <div class="owl-carousel pr-sm" style="z-index: 1000;">
             <div data-merge="1"><img src="img/studio/1.jpg" class="image-display-pane no-shadow"> </div>
             <div data-merge="1"><img src="img/studio/2.jpg" class="image-display-pane no-shadow"> </div>
-            <div data-merge="1"><img src="img/studio/3.jpg" class="image-display-pane no-shadow"> </div>
+            <div data-merge="1"><img src="img/studio/IMG_3003.jpg" class="image-display-pane no-shadow"> </div>
+            <div data-merge="1"><img src="img/studio/IMG_2972.jpg" class="image-display-pane no-shadow"> </div>
           </div>
+          <div class="dots flex-100"></div>
         </div>
       </div>
       <?php include"src/footer.php"?>

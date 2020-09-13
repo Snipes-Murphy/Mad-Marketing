@@ -49,7 +49,7 @@
       <div class="hero-ambient-1"></div>
       <div class="hero-ambient-2"></div>
       <div class="row">
-        <div class="col-md-5 display-flex flex-vcenter image-section flex-wrap pr-md">
+        <div class="col-md-5 display-flex flex-vcenter flex-wrap image-section flex-wrap pr-md">
           <div class="text-section">
             <h1>Photography</h1>
           </div>

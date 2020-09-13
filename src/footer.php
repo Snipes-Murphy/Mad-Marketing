@@ -32,13 +32,14 @@
   $('.owl-carousel').owlCarousel({
     items: 1,
     merge: true,
-    dots: true,
+    dots: false,
     loop: true,
     margin: 10,
     video: true,
     lazyLoad: true,
     autoplay: true,
-    autoplayTimeout: 2000,
+    autoplayTimeout: 3000,
+    dotsContainer: '.dots',
     dotsContainer: '.dots',
     autoplayHoverPause: true,
     responsive:{

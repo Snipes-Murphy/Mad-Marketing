@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\xampp\\htdocs\\Embr Sync"
+		},
+		{
+			"path": "..\\Documents\\Work Stuff\\Repositories\\HydroUI"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"database": "Embr",
+				"driver": "MySQL",
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"name": "Embr",
+				"password": "XsV13Xm3yVpXQ4DD",
+				"port": 3306,
+				"previewLimit": 50,
+				"server": "db.fadedservers.com",
+				"username": "Embr"
+			}
+		]
+	}
+}

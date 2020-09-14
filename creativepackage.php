@@ -49,7 +49,7 @@
                   <h1>CONTENT WITH <BR>A PURPOSE</h1>
                   <h2></h2>
                 </div>
-            <img src="img/grant/websearch.png" alt="Premium marketing" style="z-index: 5;" width="100%">
+            <img src="img/grant/15.svg" alt="Premium marketing" style="z-index: 5;" width="100%">
           </div>
           <div class="col-md-7 details-section">
                <h1>Limited Spots Available</h1>

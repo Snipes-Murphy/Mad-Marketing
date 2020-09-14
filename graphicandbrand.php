@@ -28,7 +28,7 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>Creative Design and Corporate Branding is all about You</h1>
+              <h1>Creative design and corporate branding is all about you</h1>
               <p class="font-lg">Discover how creative design can impact your audience dramatically.</p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
@@ -47,7 +47,7 @@
         <div class="row">
           <div class="col-md-5 display-flex flex-vcenter image-section">
             <div class="text-section">
-              <h1>Conceptualize</h1>
+              <h1>Image</h1>
               <h2>02</h2>
             </div>
             <img src="img/branddesign.jpg" alt="Premium website design" style="z-index: 5;" width="100%" class="image-display-pane right">
@@ -76,7 +76,6 @@
         <div class="row">
           <div class="col-md-7 details-section">
             <div>
-              <h1>Just like that</h1>
               <p>Graphic design is everywhere, it is in everything you see each day and touches everything you do. It is the art of visualising ideas and understanding how the right design can impact people you are trying to reach and can have serious benefits for your company.</p>
             </div>
           </div>

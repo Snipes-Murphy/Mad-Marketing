@@ -28,13 +28,13 @@
         <div class="header-content row">
           <div class="col-md-6 display-flex flex-vcenter">
             <div style="z-index: 6;">
-              <h1>Design matters</h1>
-              <p class="font-lg">Your visual brand is critical to your success in <br>business.</p>
+              <h1>Print design matters</h1>
+              <p class="font-lg">Sometimes people like something more tangible. </p>
               <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">
-            <img src="img/illustrations/6.svg" alt="Premium website design" style="z-index: 5;" width="100%">
+            <img src="img/illustrations/print.png" alt="Premium website design" style="z-index: 5;" width="100%">
             <div class="hero-bg"></div>
             <div class="text-section text-right">
               <h1>Design</h1>
@@ -78,9 +78,9 @@
               </div>
               <div class="col-lg-6 px-lg">
                 <div class="icon-pill text-center" style="height: 64px; width: 64px;">
-          				<i data-feather="book-open" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
+          				<i data-feather="users" class="text-grey-4" style="height: 28px; width: 28px; position: relative;"></i>
                 </div>
-                <h6 class="text-bold">Sample Design Copies</h6>
+                <h6 class="text-bold">Collaborative</h6>
                 <p class="my-sm">In all the steps of creation, we always keep you in the loop, giving you sample concept designs and a range of options to develop the end result.</p>
               </div>
             </div>

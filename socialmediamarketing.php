@@ -30,7 +30,7 @@
             <div style="z-index: 6;">
               <h1>Influence is not popularity</h1>
               <p class="font-lg">Reach your audience to communicate and build relationships and brand loyalty.</p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-text-animate btn-highlight" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
+              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-text-animate btn-highlight" btn-text="Innovate your Marketing Now"><span>Innovate your Marketing Now</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">

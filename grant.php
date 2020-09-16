@@ -78,7 +78,7 @@
                 </p>
               <div class="row">
                 <div class="col-lg-6">
-                  <a href="mailto:info@madmarketinggroup.com.au"><button type="button" name="button" class="grant-btn btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Apply Now"><span>Apply Now</span></button></a>
+                  <a href="mailto:info@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Apply Now"><span>Apply Now</span></button></a>
             		</div>
               </div>
             </div>

@@ -54,7 +54,7 @@
         <div class="row">
           <div class="col-md-5 display-flex flex-vcenter image-section">
             <div class="text-section" style="z-index: -1 !important; top: 0% !important;">
-              <h1>Innovate your Business!</h1>
+              <h1>Innovate your Business</h1>
             </div>
             <img src="img/illustrations/3.svg" alt="Premium marketing" style="z-index: 5;" width="100%">
           </div>

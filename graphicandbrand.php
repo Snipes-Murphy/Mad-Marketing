@@ -30,7 +30,7 @@
             <div style="z-index: 6;">
               <h1>Creative design and corporate branding is all about you</h1>
               <p class="font-lg">Discover how creative design can impact your audience dramatically.</p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now"><span>Innovate your Marketing Now</span></button></a>
+              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">

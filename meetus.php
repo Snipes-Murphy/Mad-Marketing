@@ -32,12 +32,12 @@
       <div class="header-content row">
         <div class="col-md-6 display-flex flex-vcenter">
           <div style="z-index: 6;">
-            <h1>Lets introduce ourselves</h1>
+            <h1>Lets introduce ourselves.</h1>
             <p class="font-lg">"Teamwork begins by building trust, alone we can do so little, but together, we can do so much."
             </p>
             <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button"
                 class="btn-primary btn-mad btn-highlight btn-text-animate"
-                btn-text="Innovate your Marketing Now"><span>Innovate your Marketing Now</span></button></a>
+                btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
           </div>
         </div>
         <div class="col-md-6 hero-header" style="z-index:5">
@@ -62,7 +62,7 @@
                   <img src="img/people/charlie.jpg" alt="Charlie Jackson" height="128px" width="128px">
                   <h1>Charlie Jackson</h1>
                   <div class="role-section">
-                    <h1>Marketing Manager</h1>
+                    <h1>Co-Founder</h1>
                   </div>
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
@@ -86,7 +86,7 @@
                   <img src="img/people/kye.jpg" alt="Kye Wilson" height="128px" width="128px">
                   <h1>Kye Wilson</h1>
                   <div class="role-section">
-                    <h1>Social<br> Media<br> Manager</h1>
+                    <h1>Co-Founder</h1>
                   </div>
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
@@ -203,7 +203,7 @@
                   <img src="img/people/hunter.jpg" alt="Hunter Wearne" height="128px" width="128px">
                   <h1>Hunter Wearne</h1>
                   <div class="role-section">
-                    <h1>Motion Graphic Designer</h1>
+                    <h1>Videographer</h1>
                   </div>
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
@@ -226,7 +226,7 @@
                   <img src="img/people/will.jpg" alt="Will Strang" height="128px" width="128px">
                   <h1>Will Strang</h1>
                   <div class="role-section">
-                    <h1>Videographer<br> photographer</h1>
+                    <h1>Videographer</h1>
                   </div>
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">

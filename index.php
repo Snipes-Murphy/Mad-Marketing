@@ -30,7 +30,7 @@
             <div style="z-index: 6;">
               <h1>Having trouble marketing your business? Let us help</h1>
               <p class="font-lg">Simple and effective marketing strategies to engage customers and increase sales. Success begins now!</p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now"><span>Innovate your Marketing Now</span></button></a>
+              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!"><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">
@@ -54,7 +54,7 @@
         <div class="row">
           <div class="col-md-5 display-flex flex-vcenter image-section">
             <div class="text-section" style="z-index: -1 !important; top: 0% !important;">
-              <h1>Innovate your Business</h1>
+              <h1>Innovate your Business!</h1>
             </div>
             <img src="img/illustrations/3.svg" alt="Premium marketing" style="z-index: 5;" width="100%">
           </div>

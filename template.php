@@ -13,7 +13,7 @@
             <div style="z-index: 6;">
               <h1>How we design websites.</h1>
               <p class="font-lg">We use strategy and design to simplify and solve conversion issues, success begins at phase one.</p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now">><span>Innovate your Marketing Now</span></button></a>
+              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now!">><span>Innovate your Marketing Now!</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">

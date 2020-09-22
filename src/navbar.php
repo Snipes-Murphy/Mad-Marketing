@@ -3,7 +3,7 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<div class="navbar navbar-fixed navbar-lg py-sm" id="navbar">
+<div class="navbar navbar-fixed navbar-lg py-sm scroll-class-sdet" sdet-dist="20" sdet-add="navbar-active" id="navbar">
   <div class="container">
     <div class="logo-small">
       <a href="index.php"><img src="img/logo.svg" alt="Mad Marketing Logo" height="48px"></a>
@@ -12,7 +12,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="display-flex flex-vcenter mr-md">
         <a href="index.php"><img src="img/banner.svg" alt="Mad Marketing Logo" height="48px" class="logo"></a>
       </div>
-      <a href="mailto:hi@madmarketinggroup.com.au"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Contact"><span>Contact</span></button></a>
+      <a href="http://funnel.madmarketinggroup.com.au/contact"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Contact"><span>Contact</span></button></a>
       <div class="dropdown">
         <button class="nav-btn dropdown-item font-md btn-text-animate text-toggle" btn-text="Explore Us"><span>Explore Us</span></button>
         <div class="dropdown-content dropdown-grid text-bold">
@@ -47,9 +47,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
       </div>
-      <a href="grant.php"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Marketing Grant"><span>Marketing Grant</span></button></a>
-      <a href="creativepackage.php"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Creative Package"><span>Creative Package</span></button></a>
-      <a href="mailto:hi@madmarketinggroup.com.au" class="pull-right" style="margin-left: auto;"><button class="btn-primary bg-mad-grad btn-round bg-react btn-no-highlight btn-text-animate" btn-text="Make A Difference"><span>Make A Difference</span></button></a>
+      <a href="http://funnel.madmarketinggroup.com.au/grant"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Marketing Grant"><span>Marketing Grant</span></button></a>
+      <a href="http://funnel.madmarketinggroup.com.au/creative-package"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Creative Package"><span>Creative Package</span></button></a>
+      <a href="http://funnel.madmarketinggroup.com.au/contact" class="pull-right" style="margin-left: auto;"><button class="btn-primary bg-mad-grad btn-round bg-react btn-no-highlight btn-text-animate" btn-text="Make A Difference"><span>Make A Difference</span></button></a>
     </div>
     <button class="nav-btn nav-btn-menu"><i data-feather="menu" class="f-icon f-stroke-2"></i></button>
   </div>

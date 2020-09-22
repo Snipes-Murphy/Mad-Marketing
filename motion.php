@@ -30,7 +30,7 @@
             <div style="z-index: 6;">
               <h1>Motion Graphics</h1>
               <p class="font-lg">Express complex ideas that would otherwise be hard to communicate through copy and flat images by bringing your ideas to life with animation.</p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now"><span>Innovate your Marketing Now</span></button></a>
+              <a href="http://funnel.madmarketinggroup.com.au/contact"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now"><span>Innovate your Marketing Now</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">

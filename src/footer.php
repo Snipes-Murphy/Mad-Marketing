@@ -1,7 +1,7 @@
 <div class="contact-us my-xlg" id="contact-us">
 
   <h2 class="display-inline-block mt-sm color-grey-6">Interested in a quote?</h2>
-  <a href="mailto:hi@madmarketinggroup.com.au"><button class="btn-primary btn-form btn-mad pull-right bg-mad-grad btn-text-animate" btn-text="Get In Touch!"><span>Get In Touch!</span></button></a>
+  <a href="http://funnel.madmarketinggroup.com.au/contact"><button class="btn-primary btn-form btn-mad pull-right bg-mad-grad btn-text-animate" btn-text="Get In Touch!"><span>Get In Touch!</span></button></a>
   <div class="details-section color-grey-4 mt-lg">
     <div class="row">
       <div class="col-lg-4">

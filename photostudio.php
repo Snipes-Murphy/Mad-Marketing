@@ -58,7 +58,7 @@
             <div>
               <p>Whether you're a business, photographer or a videographer requiring a studio space for a client to take amazing product shots, we have the space for you. Contact us if you would like to pre-purchase time so you can get this amazing deal. Photographers and Videographers can also be available on request.</p>
 
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight">Book Now!</button></a>
+              <a href="http://funnel.madmarketinggroup.com.au/contact"><button type="button" name="button" class="btn-primary btn-mad btn-highlight">Book Now!</button></a>
             </div>
           </div>
           <div class="col-md-5 display-flex flex-vcenter flex-wrap image-section pr-md">

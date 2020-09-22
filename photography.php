@@ -34,7 +34,7 @@
           <div style="z-index: 6;">
             <h1>Professional photos & videos for you</h1>
             <p class="font-lg">Elevate your business through the use of photo & video content.</p>
-            <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button"
+            <a href="http://funnel.madmarketinggroup.com.au/contact"><button type="button" name="button"
                 class="btn-primary btn-mad btn-highlight btn-text-animate"
                 btn-text="Innovate your Marketing Now"><span>Innovate your Marketing Now</span></button></a>
           </div>

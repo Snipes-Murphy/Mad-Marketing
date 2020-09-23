@@ -415,7 +415,7 @@ button, a {
 .contact-us {
   position: relative; }
   .contact-us::before {
-    content: 'GETSTARTED';
+    /*content: 'GETSTARTED';*/
     color: #f3f3f3;
     font-size: 256px;
     font-weight: 900;

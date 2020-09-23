@@ -30,7 +30,7 @@
             <div style="z-index: 6;">
               <h1>Print design matters</h1>
               <p class="font-lg">Sometimes people like something more tangible. </p>
-              <a href="mailto:hi@madmarketinggroup.com.au"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now"><span>Innovate your Marketing Now</span></button></a>
+              <a href="http://funnel.madmarketinggroup.com.au/contact"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now"><span>Innovate your Marketing Now</span></button></a>
             </div>
           </div>
           <div class="col-md-6 hero-header" style="z-index:5">

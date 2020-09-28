@@ -65,9 +65,9 @@
                     </div>
                     <div class="card-accordion-content">
                       <p>
-                        My name is Charlie and I'm the co-founder of MAD Marketing.
+                        My name is Charlie and I'm the co-founder of Mad Marketing.
                         I grew up wanting to change the world and running my own business. which lead to me, being the
-                        founder of MAD Marketing, wanting to change the way business advertise and owning another
+                        founder of Mad Marketing, wanting to change the way business advertise and owning another
                         company related to changing the health and food industry.
                       </p>
                     </div>
@@ -87,7 +87,7 @@
                       <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
-                      <p>Hi my names Kye, I’m the social media marketing director at MAD Marketing. I’m not limited to
+                      <p>Hi my names Kye, I’m the social media marketing director at Mad Marketing. I’m not limited to
                         managing your social media As I have cert III in networking and accounting. Outside of work Im
                         your normal sports fan with a dog.</p>
                     </div>
@@ -108,7 +108,7 @@
                     </div>
                     <div class="card-accordion-content">
                       <p>
-                        My name is Josh and I'm MAD Marketing's Media Buyer. I have a finished a Certificate IV in Sound
+                        My name is Josh and I'm Mad Marketing's Media Buyer. I have a finished a Certificate IV in Sound
                         Engineering and have just started a Certificate IV in Design. Media, Information Technology and
                         Marketing are some of my interests. Outside of those, I dab in a lot of playing music and
                         gaming.
@@ -153,7 +153,7 @@
                       <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
-                      <p>My name is Steph and I'm a graphic designer at MAD Marketing. I completed my Certificate III in
+                      <p>My name is Steph and I'm a graphic designer at Mad Marketing. I completed my Certificate III in
                         Print Communications last year and am now studying a Bachelor of Communication Design at RMIT. I
                         especially love designing corporate identities and am ready to make a difference with your
                         business! Outside of work you'll always find me with my dogs baking sweet treats or watching a
@@ -176,7 +176,7 @@
                     </div>
                     <div class="card-accordion-content">
                       <p>
-                        My name is Sarah and I’m a Graphic Designer at MAD Marketing I have completed a Certificate lll
+                        My name is Sarah and I’m a Graphic Designer at Mad Marketing I have completed a Certificate lll
                         in Print Communications.
                         I am also currently completing my Certificate lV in Design at Wodonga TAFE. I love designing
                         logos and doing photography. When I’m not at work I enjoy going for hikes and getting out in
@@ -222,7 +222,7 @@
                     </div>
                     <div class="card-accordion-content">
                       <p>
-                        My name is Will and I’m a Videographer at MAD Marketing. I completed my Certificate III in Print
+                        My name is Will and I’m a Videographer at Mad Marketing. I completed my Certificate III in Print
                         Communications and I’m currently doing Certificate IV in Design. Some of my interests are
                         playing music and gaming.
                       </p>
@@ -243,8 +243,8 @@
                       <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
-                      <p>My name is Matt & I'm the Website & Software Developer at MAD Marketing. I have been developing
-                        websites, applications, & software for MAD Marketing for over a year now and am extremely
+                      <p>My name is Matt & I'm the Website & Software Developer at Mad Marketing. I have been developing
+                        websites, applications, & software for Mad Marketing for over a year now and am extremely
                         passionate about what I do here and I'm immensely knowledgable and experience in the industry of
                         Front-end and Back-end design.</p>
                     </div>

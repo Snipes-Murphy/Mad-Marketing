@@ -1,31 +1,27 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<?php include"src/meta.php" ?>
+<?php include "src/meta.php" ?>
 <div id="seo-manager">
   <div>
     <title>Mad Marketing - Meet The Team</title>
-    <meta name="description"
-      content="We are a small, young, dedicated and skilled team with years of experience between us.">
-    <meta name="keywords"
-      content="marketing agency, simple strategies, agency, effective marketing, increasing engagement, increase sales, mad marketing, mad marketing group, madmarketing, local marketing, local agency, Albury marketing, Wodonga marketing">
+    <meta name="description" content="We are a small, young, dedicated and skilled team with years of experience between us.">
+    <meta name="keywords" content="marketing agency, simple strategies, agency, effective marketing, increasing engagement, increase sales, mad marketing, mad marketing group, madmarketing, local marketing, local agency, Albury marketing, Wodonga marketing">
     <meta name="author" content="Mad Marketing Website Development">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Meet The Team">
     <meta property="og:image" content="https://i.imgur.com/qiKH9Fp.jpg">
-    <meta property="og:description"
-      content="We are a small, young, dedicated and skilled team with years of experience between us.">
+    <meta property="og:description" content="We are a small, young, dedicated and skilled team with years of experience between us.">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Meet The Team">
     <meta name="twitter:image" content="https://i.imgur.com/qiKH9Fp.jpg">
     <meta itemprop="name" content="Meet The Team">
-    <meta itemprop="description"
-      content="We are a small, young, dedicated and skilled team with years of experience between us.">
+    <meta itemprop="description" content="We are a small, young, dedicated and skilled team with years of experience between us.">
     <meta itemprop="image" content="https://i.imgur.com/qiKH9Fp.jpg">
   </div>
 </div>
 
 <body class="no-x-overflow">
-  <?php include"src/navbar.php" ?>
+  <?php include "src/navbar.php" ?>
 
   <div class="container">
     <div class="header">
@@ -35,9 +31,7 @@
             <h1>Lets introduce ourselves</h1>
             <p class="font-lg">"Teamwork begins by building trust, alone we can do so little, but together, we can do so much."
             </p>
-            <a href="http://funnel.madmarketinggroup.com.au/contact"><button type="button" name="button"
-                class="btn-primary btn-mad btn-highlight btn-text-animate"
-                btn-text="Innovate your Marketing Now"><span>Innovate your Marketing Now</span></button></a>
+            <a href="http://funnel.madmarketinggroup.com.au/contact"><button type="button" name="button" class="btn-primary btn-mad btn-highlight btn-text-animate" btn-text="Innovate your Marketing Now"><span>Innovate your Marketing Now</span></button></a>
           </div>
         </div>
         <div class="col-md-6 hero-header" style="z-index:5">
@@ -67,8 +61,7 @@
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
                       <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
                       <p>
@@ -91,8 +84,7 @@
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
                       <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
                       <p>Hi my names Kye, I’m the social media marketing director at MAD Marketing. I’m not limited to
@@ -112,8 +104,7 @@
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
                       <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
                       <p>
@@ -136,8 +127,7 @@
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
                       <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
                       <p>
@@ -160,8 +150,7 @@
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
                       <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
                       <p>My name is Steph and I'm a graphic designer at MAD Marketing. I completed my Certificate III in
@@ -183,8 +172,7 @@
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
                       <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
                       <p>
@@ -208,8 +196,7 @@
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
                       <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
                       <p>
@@ -231,8 +218,7 @@
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
                       <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
                       <p>
@@ -254,14 +240,31 @@
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
                       <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
                       <p>My name is Matt & I'm the Website & Software Developer at MAD Marketing. I have been developing
                         websites, applications, & software for MAD Marketing for over a year now and am extremely
                         passionate about what I do here and I'm immensely knowledgable and experience in the industry of
                         Front-end and Back-end design.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="person" style="padding-bottom: 72px;">
+                  <img src="img/people/samuel.jpg" alt="Samuel Gander" height="128px" width="128px">
+                  <h1>Samuel Gander</h1>
+                  <div class="role-section">
+                    <h1>Web <br>Developer</h1>
+                  </div>
+                  <div class="card card-accordion bg-transparent no-shadow">
+                    <div class="card-accordion-heading bg-transparent">
+                      <h6 class="color-grey-5">About Me</h6>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                    </div>
+                    <div class="card-accordion-content">
+                      <p>My name is Samuel and I am the Front-end web developer for the Mad Marketing team. I am driven by a desire to develop my own skills as well as the team I'm involved in. I enjoy going to social events with friends and sports</p>
                     </div>
                   </div>
                 </div>
@@ -276,8 +279,7 @@
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
                       <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down"
-                        class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
                     </div>
                     <div class="card-accordion-content">
                       <p>
@@ -287,7 +289,7 @@
                   </div>
                 </div>
               </div>
-              <?php include"src/footer.php"?>
+              <?php include "src/footer.php" ?>
             </div>
 </body>
 

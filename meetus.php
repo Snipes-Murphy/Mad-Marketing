@@ -95,6 +95,29 @@
                 </div>
               </div>
               <div class="col-md-3">
+                <div class="person">
+                  <img src="img/people/jon.jpg" alt="Jonathon Schmidt" height="128px" width="128px">
+                  <h1>Jonathon Schmidt</h1>
+                  <div class="role-section">
+                    <h1>Marketing Assistant</h1>
+                  </div>
+                  <div class="card card-accordion bg-transparent no-shadow">
+                    <div class="card-accordion-heading bg-transparent">
+                      <h6 class="color-grey-5">About Me</h6>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                    </div>
+                    <div class="card-accordion-content">
+                      <p>
+                        I have a Cert III in Information Technology and Business Administration and am now studying a
+                        Bachelor of Business, majoring in marketing and minoring in psychology at Charles Sturt. I have
+                        always had a great interest for understanding the behaviours of consumers and how businesses use
+                        that knowledge to create their advertisements and target the right audiences.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
                 <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/josh.jpg" alt="Josh Matammu" height="128px" width="128px">
                   <h1>Josh Matammu</h1>
@@ -156,28 +179,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3">
-                <div class="person" style="padding-bottom: 72px;">
-                  <img src="img/people/will.jpg" alt="Will Strang" height="128px" width="128px">
-                  <h1>Will Strang</h1>
-                  <div class="role-section">
-                    <h1>Videographer<br> photographer</h1>
-                  </div>
-                  <div class="card card-accordion bg-transparent no-shadow">
-                    <div class="card-accordion-heading bg-transparent">
-                      <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
-                    </div>
-                    <div class="card-accordion-content">
-                      <p>
-                        My name is Will and I’m a Videographer at Mad Marketing. I completed my Certificate III in Print
-                        Communications and I’m currently doing Certificate IV in Design. Some of my interests are
-                        playing music and gaming.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
+
               <div class="col-md-3">
                 <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/steph.jpg" alt="Steph Cleland" height="128px" width="128px">
@@ -196,6 +198,30 @@
                         especially love designing corporate identities and am ready to make a difference with your
                         business! Outside of work you'll always find me with my dogs baking sweet treats or watching a
                         movie. </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="person" style="padding-bottom: 72px;">
+                  <img src="img/people/sarah.jpg" alt="Sarah Taylor" height="128px" width="128px">
+                  <h1>Sarah Taylor</h1>
+                  <div class="role-section">
+                    <h1>Graphic Designer</h1>
+                  </div>
+                  <div class="card card-accordion bg-transparent no-shadow">
+                    <div class="card-accordion-heading bg-transparent">
+                      <h6 class="color-grey-5">About Me</h6>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                    </div>
+                    <div class="card-accordion-content">
+                      <p>
+                        My name is Sarah and I’m a Graphic Designer at Mad Marketing I have completed a Certificate lll
+                        in Print Communications.
+                        I am also currently completing my Certificate lV in Design at Wodonga TAFE. I love designing
+                        logos and doing photography. When I’m not at work I enjoy going for hikes and getting out in
+                        nature.
+                      </P>
                     </div>
                   </div>
                 </div>
@@ -224,10 +250,10 @@
               </div>
               <div class="col-md-3">
                 <div class="person" style="padding-bottom: 72px;">
-                  <img src="img/people/sarah.jpg" alt="Sarah Taylor" height="128px" width="128px">
-                  <h1>Sarah Taylor</h1>
+                  <img src="img/people/will.jpg" alt="Will Strang" height="128px" width="128px">
+                  <h1>Will Strang</h1>
                   <div class="role-section">
-                    <h1>Graphic Designer</h1>
+                    <h1>Videographer<br> photographer</h1>
                   </div>
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">
@@ -236,12 +262,10 @@
                     </div>
                     <div class="card-accordion-content">
                       <p>
-                        My name is Sarah and I’m a Graphic Designer at Mad Marketing I have completed a Certificate lll
-                        in Print Communications.
-                        I am also currently completing my Certificate lV in Design at Wodonga TAFE. I love designing
-                        logos and doing photography. When I’m not at work I enjoy going for hikes and getting out in
-                        nature.
-                      </P>
+                        My name is Will and I’m a Videographer at Mad Marketing. I completed my Certificate III in Print
+                        Communications and I’m currently doing Certificate IV in Design. Some of my interests are
+                        playing music and gaming.
+                      </p>
                     </div>
                   </div>
                 </div>

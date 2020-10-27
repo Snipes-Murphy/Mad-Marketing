@@ -1,6 +1,5 @@
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SMP6ZH"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SMP6ZH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <div class="navbar navbar-fixed navbar-lg py-sm scroll-class-sdet" sdet-dist="20" sdet-add="navbar-active" id="navbar">
@@ -16,9 +15,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="dropdown">
         <button class="nav-btn dropdown-item font-md btn-text-animate text-toggle" btn-text="Explore Us"><span>Explore Us</span></button>
         <div class="dropdown-content dropdown-grid text-bold">
-        <div class="dropdown-row dropdown-section">
+          <div class="dropdown-row dropdown-section">
             <a href="portfolio.php"><button class="link-primary text-bold font-md">Portfolio <i data-feather="chevron-right" class="f-realign f-icon f-small f-stroke-3"></i></button></a>
-        </div>
+          </div>
           <div class="dropdown-row">
             <div class="col">
               <h6>Company</h6>
@@ -32,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="dropdown">
         <button class="nav-btn dropdown-item font-md btn-text-animate text-toggle" btn-text="Services"><span>Services</span></button>
         <div class="dropdown-content dropdown-grid text-bold">
-        <div class="dropdown-row">
+          <div class="dropdown-row">
             <div class="col">
               <h6>What We Do?</h6>
               <a href="websites.php">Website Design</a>
@@ -47,8 +46,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
       </div>
-      <a href="http://funnel.madmarketinggroup.com.au/grant"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Marketing Grant"><span>Marketing Grant</span></button></a>
-      <a href="http://funnel.madmarketinggroup.com.au/creative-package"><button class="nav-btn font-md btn-text-animate text-toggle" btn-text="Creative Package"><span>Creative Package</span></button></a>
       <a href="http://funnel.madmarketinggroup.com.au/contact" class="pull-right" style="margin-left: auto;"><button class="btn-primary bg-mad-grad btn-round bg-react btn-no-highlight btn-text-animate" btn-text="Make A Difference"><span>Make A Difference</span></button></a>
     </div>
     <button class="nav-btn nav-btn-menu"><i data-feather="menu" class="f-icon f-stroke-2"></i></button>

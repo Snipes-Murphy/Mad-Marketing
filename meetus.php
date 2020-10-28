@@ -99,7 +99,7 @@
                   <img src="img/people/josh.jpg" alt="Josh Matammu" height="128px" width="128px">
                   <h1>Josh Matammu</h1>
                   <div class="role-section">
-                    <h1>Digital Marketing Assistant</h1>
+                    <h1>Project manager</h1>
                   </div>
                   <div class="card card-accordion bg-transparent no-shadow">
                     <div class="card-accordion-heading bg-transparent">

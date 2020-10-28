@@ -119,6 +119,47 @@
               </div>
               <div class="col-md-3">
                 <div class="person" style="padding-bottom: 72px;">
+                  <img src="img/people/matt.jpg" alt="Matt Murphy" height="128px" width="128px">
+                  <h1>Matt Murphy</h1>
+                  <div class="role-section">
+                    <h1>Full Stack<br> Web Developer</h1>
+                  </div>
+                  <div class="card card-accordion bg-transparent no-shadow">
+                    <div class="card-accordion-heading bg-transparent">
+                      <h6 class="color-grey-5">About Me</h6>
+                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
+                    </div>
+                    <div class="card-accordion-content">
+                      <p>My name is Matt & I'm the Website & Software Developer at MAD Marketing. I have been developing
+                        websites, applications, & software for MAD Marketing for over a year now and am extremely
+                        passionate about what I do here and I'm immensely knowledgable and experience in the industry of
+                        Front-end and Back-end design.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="person" style="padding-bottom: 72px;">
+                  <img src="img/people/samuel.jpg" alt="Samuel Gander" height="128px" width="128px">
+                  <h1>Samuel Gander</h1>
+                  <div class="role-section">
+                    <h1>Web <br>Developer</h1>
+                  </div>
+                  <div class="card card-accordion bg-transparent no-shadow">
+                    <div class="card-accordion-heading bg-transparent">
+                      <h6 class="color-grey-5">About Me</h6>
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3">
+                        <polyline points="6 9 12 15 18 9"></polyline>
+                      </svg>
+                    </div>
+                    <div class="card-accordion-content">
+                      <p>My name is Samuel and I am the Front-end web developer for the Mad Marketing team. I am driven by a desire to develop my own skills as well as the team I'm involved in. I enjoy going to social events with friends and sports</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/steph.jpg" alt="Steph Cleland" height="128px" width="128px">
                   <h1>Steph Cleland</h1>
                   <div class="role-section">
@@ -207,27 +248,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3">
-                <div class="person" style="padding-bottom: 72px;">
-                  <img src="img/people/matt.jpg" alt="Matt Murphy" height="128px" width="128px">
-                  <h1>Matt Murphy</h1>
-                  <div class="role-section">
-                    <h1>Full Stack<br> Web Developer</h1>
-                  </div>
-                  <div class="card card-accordion bg-transparent no-shadow">
-                    <div class="card-accordion-heading bg-transparent">
-                      <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
-                    </div>
-                    <div class="card-accordion-content">
-                      <p>My name is Matt & I'm the Website & Software Developer at MAD Marketing. I have been developing
-                        websites, applications, & software for MAD Marketing for over a year now and am extremely
-                        passionate about what I do here and I'm immensely knowledgable and experience in the industry of
-                        Front-end and Back-end design.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
+
               <div class="col-md-3">
                 <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/mali.png" alt="Mali" height="128px" width="128px">

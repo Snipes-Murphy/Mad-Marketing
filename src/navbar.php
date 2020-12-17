@@ -51,7 +51,6 @@
         <div class="dropdown-content dropdown-grid text-bold">
           <div class="dropdown-row">
             <div class="col">
-              <h6>What We Do?</h6>
               <a href="http://funnel.madmarketinggroup.com.au/christmas-deals">Christmas Deals</a>
               <a href="http://funnel.madmarketinggroup.com.au/audit">Marketing Strategy & Website Audit</a>
               <!--<a href="mailto:hi@madmarketinggroup.com.au">Not what you're looking for?</a>-->

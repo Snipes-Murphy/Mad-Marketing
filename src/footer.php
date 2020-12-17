@@ -23,18 +23,18 @@
             </a>
 
             <div embr-id="1a9d5c17-ccd1-4b02-94a8-ea2f63a72889" class="" style="">
-              <div embr-id="a8570a40-24bf-42d3-8836-cb05447548f5" class="" style="display: flex; align-items: flex-start; justify-content: space-between; padding-top: 5px; margin-top: 1px; margin-bottom: 1px;" draggable="false"><i data-feather="map-pin" class=""></i>
+              <a embr-id="a8570a40-24bf-42d3-8836-cb05447548f5" class="" href="https://maps.google.com/?ll=-36.05507852754775, 146.95156743713122" style="display: flex; align-items: flex-start; justify-content: space-between; padding-top: 5px; margin-top: 1px; margin-bottom: 1px;" draggable="false"><i data-feather="map-pin" class=""></i>
 
                 <p embr-id="9a827eb2-ff9e-4c98-b2b3-d919214bd4c6" class="text-left font-highlight" style="padding-left:8px;font-family:Poppins, sans-serif;margin-top:0px;" draggable="false">4/39 Union Road North Albury</p>
 
 
 
-              </div>
-              <div embr-id="647fe29f-7a08-4efd-9d22-f12277d122e0" class="" style="display: flex; align-items: flex-start; justify-content: space-between; margin-top: 1px; margin-bottom: 1px;" draggable="false"><i data-feather="mail" class=""></i>
+              </a>
+              <a embr-id="647fe29f-7a08-4efd-9d22-f12277d122e0" class="" href="mailto:info@ madmarketinggroup.com" style="display: flex; align-items: flex-start; justify-content: space-between; margin-top: 1px; margin-bottom: 1px;" draggable="false"><i data-feather="mail" class=""></i>
 
                 <p embr-id="2541db1fasdasdasd-d0a9-4f91-8f15-f4cf99385dce" class="text-center font-highlight" style="padding-left:8px;font-family:Poppins, sans-serif;font-weight:400;margin-top:0px;" draggable="false">hi@madmarketinggroup.com.au</p>
 
-              </div>
+              </a>
 
             </div>
 

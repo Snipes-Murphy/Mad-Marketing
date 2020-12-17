@@ -46,7 +46,19 @@
           </div>
         </div>
       </div>
-      <a href="http://funnel.madmarketinggroup.com.au/christmas-deals" class="nav-btn font-md btn-text-animate text-toggle" btn-text="Deals"><span>Deals</span></a>
+      <div class="dropdown">
+        <button class="nav-btn dropdown-item font-md btn-text-animate text-toggle" btn-text="Offers"><span>Offers</span></button>
+        <div class="dropdown-content dropdown-grid text-bold">
+          <div class="dropdown-row">
+            <div class="col">
+              <h6>What We Do?</h6>
+              <a href="http://funnel.madmarketinggroup.com.au/christmas-deals">Christmas Deals</a>
+              <a href="http://funnel.madmarketinggroup.com.au/audit">Marketing Strategy & Website Audit</a>
+              <!--<a href="mailto:hi@madmarketinggroup.com.au">Not what you're looking for?</a>-->
+            </div>
+          </div>
+        </div>
+      </div>
       <a href="http://funnel.madmarketinggroup.com.au/contact" class="pull-right" style="margin-left: auto;"><button class="btn-primary bg-mad-grad btn-round bg-react btn-no-highlight btn-text-animate" btn-text="Make A Difference"><span>Make A Difference</span></button></a>
     </div>
     <button class="nav-btn nav-btn-menu"><i data-feather="menu" class="f-icon f-stroke-2"></i></button>

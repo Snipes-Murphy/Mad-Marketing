@@ -160,28 +160,6 @@
               </div>
               <div class="col-md-3">
                 <div class="person" style="padding-bottom: 72px;">
-                  <img src="img/people/steph.jpg" alt="Steph Cleland" height="128px" width="128px">
-                  <h1>Steph Cleland</h1>
-                  <div class="role-section">
-                    <h1>Graphic Designer</h1>
-                  </div>
-                  <div class="card card-accordion bg-transparent no-shadow">
-                    <div class="card-accordion-heading bg-transparent">
-                      <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
-                    </div>
-                    <div class="card-accordion-content">
-                      <p>My name is Steph and I'm a graphic designer at Mad Marketing. I completed my Certificate III in
-                        Print Communications last year and am now studying a Bachelor of Communication Design at RMIT. I
-                        especially love designing corporate identities and am ready to make a difference with your
-                        business! Outside of work you'll always find me with my dogs baking sweet treats or watching a
-                        movie. </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/sarah.jpg" alt="Sarah Taylor" height="128px" width="128px">
                   <h1>Sarah Taylor</h1>
                   <div class="role-section">
@@ -244,27 +222,6 @@
                         Communications and I’m currently doing Certificate IV in Design. Some of my interests are
                         playing music and gaming.
                       </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-3">
-                <div class="person" style="padding-bottom: 72px;">
-                  <img src="img/people/mali.png" alt="Mali" height="128px" width="128px">
-                  <h1>Mali</h1>
-                  <div class="role-section">
-                    <h1>MARKETING<br> DOG</h1>
-                  </div>
-                  <div class="card card-accordion bg-transparent no-shadow">
-                    <div class="card-accordion-heading bg-transparent">
-                      <h6 class="color-grey-5">About Me</h6>
-                      <i data-feather="chevron-down" class="card-accordion-icon-flip color-grey-4 f-icon f-small f-stroke-3"></i>
-                    </div>
-                    <div class="card-accordion-content">
-                      <p>
-                        Enjoys: Melting hearts, chicken, experimental design, sunny photo shoots and Elvis Presley music Dislikes: Hot weather, people who don't give good pats and wet grass. Mali lives for her days in the office providing moral support and well informed feedback to all of the team members. This pup rules the roost and don't let her size fool you!
-                      </P>
                     </div>
                   </div>
                 </div>

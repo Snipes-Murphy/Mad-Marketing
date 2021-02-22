@@ -494,13 +494,15 @@ button, a {
   }*/
 }
 
+.header {
+  height: auto !important;
+  padding-bottom: 50px;
+}
+
 @media screen and (max-width: 1000px) {
 
   .image-section .text-section {
     top: -20% !important;
-  }
-  .header {
-    height: auto !important;
   }
 }
 

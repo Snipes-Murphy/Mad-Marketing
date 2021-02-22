@@ -25,7 +25,7 @@
 
   <div class="container no-x-overflow">
     <div class="header">
-      <div class="header-content row">
+      <div class="header-content row" style="top: 0 !important;transform: none !important;padding-top: 50px;">
         <div class="col-md-6 display-flex flex-vcenter">
           <div style="z-index: 6;">
             <h1>Having trouble marketing your business? Let us help</h1>
@@ -42,7 +42,7 @@
         </div>
       </div>
     </div>
-    <div class="our-clients float-on-hover py-lg py-md-xlg mx-xlg display-flex bg-white box-radius-lg flex-space-between px-lg shadow-float mb-xlg" style="z-index: 200">
+    <div class="our-clients float-on-hover py-lg py-md-xlg mx-xlg display-flex bg-white box-radius-lg flex-space-between px-lg shadow-float mb-xlg" style="margin: 35px 25px 0 !important;">
       <img src="img/clients/faded.png" height="48" class="my-md-xlg" alt="">
       <img src="img/clients/malibu.png" height="48" class="my-md-xlg" alt="">
       <img src="img/clients/youhealth.png" height="48" class="my-md-xlg" alt="">

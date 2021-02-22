@@ -499,6 +499,9 @@ button, a {
   .image-section .text-section {
     top: -20% !important;
   }
+  .header {
+    height: auto !important;
+  }
 }
 
 @media screen and (max-width: 750px) {
@@ -518,6 +521,10 @@ button, a {
 }
 
 @media screen and (max-width: 634px) {
+
+  .hero-bg {
+    right: -140% !important;
+  }
 
   .text-section {
 
@@ -555,6 +562,8 @@ button, a {
       display: block !important;
       margin-left: auto !important;
       margin-right: auto !important;
+      max-width: 100%;
+      height: auto;
     }
   }
 }

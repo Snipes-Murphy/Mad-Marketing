@@ -51,7 +51,7 @@
               <h1>Meet The Team</h1>
             </div>
             <div class="row row-center" style="z-index: 16;">
-              <div class="col-md-3">
+              <div class="col-lg-3">
                 <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/charlie.jpg" alt="Charlie Jackson" height="128px" width="128px">
                   <h1>Charlie Jackson</h1>
@@ -74,7 +74,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3">
+              <div class="col-lg-3">
                 <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/kye.jpg" alt="Kye Wilson" height="128px" width="128px">
                   <h1>Kye Wilson</h1>
@@ -94,7 +94,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3">
+              <div class="col-lg-3">
                 <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/josh.jpg" alt="Josh Matammu" height="128px" width="128px">
                   <h1>Josh Matammu</h1>
@@ -117,7 +117,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3">
+              <div class="col-lg-3">
                 <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/matt.jpg" alt="Matt Murphy" height="128px" width="128px">
                   <h1>Matt Murphy</h1>
@@ -138,7 +138,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3">
+              <div class="col-lg-3">
                 <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/samuel.jpg" alt="Samuel Gander" height="128px" width="128px">
                   <h1>Samuel Gander</h1>
@@ -158,7 +158,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3">
+              <div class="col-lg-3">
                 <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/sarah.jpg" alt="Sarah Taylor" height="128px" width="128px">
                   <h1>Sarah Taylor</h1>
@@ -182,7 +182,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3">
+              <div class="col-lg-3">
                 <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/hunter.jpg" alt="Hunter Wearne" height="128px" width="128px">
                   <h1>Hunter Wearne</h1>
@@ -204,7 +204,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3">
+              <div class="col-lg-3">
                 <div class="person" style="padding-bottom: 72px;">
                   <img src="img/people/will.jpg" alt="Will Strang" height="128px" width="128px">
                   <h1>Will Strang</h1>

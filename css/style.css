@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:500&display=swap");
-@import url("https://use.typekit.net/dlr2yjq.css");
 .navbar {
   transition: 200ms; }
   .navbar .dropdown .dropdown-content {
@@ -37,7 +36,7 @@
     background-color: #90f1af; }
 
 button, a {
-  font-family: 'urbane', monospace !important;
+  font-family: 'Gilroy', monospace !important;
   font-weight: 500 !important;
   font-size: 13px !important; }
 

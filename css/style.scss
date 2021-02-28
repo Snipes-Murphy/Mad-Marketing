@@ -183,8 +183,9 @@ button, a {
 
   & .header-content {
     position: relative;
-    top: 40%;
-    transform: translateY(-50%);
+    top: 0 !important;
+    transform: none !important;
+    padding-top: 50px;
 
     & .hero-bg {
       z-index: -1;
@@ -527,6 +528,17 @@ button, a {
   .hero-bg {
     right: -140% !important;
   }
+  .our-clients {
+    display: block !important;
+  
+    img {
+      display: block !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+      max-width: 100%;
+      height: auto;
+    }
+  }
 
   .text-section {
 
@@ -558,14 +570,15 @@ button, a {
 @media screen and (max-width: 1350px) {
 
   .our-clients {
-    display: block !important;
+    justify-content: space-between;
+    display: flex !important;
+    flex-wrap: wrap;
 
     img {
       display: block !important;
       margin-left: auto !important;
       margin-right: auto !important;
-      max-width: 100%;
-      height: auto;
+      margin-bottom: 12px !important;
     }
   }
 }

@@ -154,7 +154,7 @@
             </div>
           </div>
           <div class="col-md-5 display-flex flex-vcenter image-section">
-            <div class="text-section right text-right" style="top: -20% !important">
+            <div class="text-section malibu-text right text-right" style="top: -20% !important">
               <h1>Malibu Boats</h1>
             </div>
             <img src="img/work/2/malibu-cards.png" alt="Premium website design" style="z-index: 5;" width="100%" class="image-display-pane">

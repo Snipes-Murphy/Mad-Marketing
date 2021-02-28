@@ -42,7 +42,7 @@
         </div>
       </div>
     </div>
-    <div class="our-clients float-on-hover py-lg py-md-xlg mx-xlg display-flex bg-white box-radius-lg flex-space-between px-lg shadow-float mb-xlg" style="margin: 35px 25px 0 !important;">
+    <div class="our-clients float-on-hover py-lg py-md-xlg mx-xlg display-flex bg-white box-radius-lg flex-space-between px-lg shadow-float mb-xlg" style="margin: 35px 25px 20px !important;">
       <img src="img/clients/faded.png" height="48" class="my-md-xlg" alt="">
       <img src="img/clients/malibu.png" height="48" class="my-md-xlg" alt="">
       <img src="img/clients/youhealth.png" height="48" class="my-md-xlg" alt="">

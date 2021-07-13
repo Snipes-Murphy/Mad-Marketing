@@ -729,13 +729,13 @@ $grey-2: #73797b;
 .fonts-large {
   color: #081f2c;
   font-size: 64px;
-  font-family: 'Gilroy';
+  font-family: 'Gilroy' !important;
   font-weight: 700;
 }
 .fonts {
   color: #081f2c;
   font-size: 32px;
-  font-family: 'Gilroy';
+  font-family: 'Gilroy' !important;
   font-weight: 700;
 }
 .font-reg {

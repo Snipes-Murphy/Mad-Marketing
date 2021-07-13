@@ -5,7 +5,7 @@
 <body style="overflow:hidden;">
     <div class="page-color" style="min-height:100vh;display:block;flex-direction:column;justify-content:space-between;align-items:flex-start;">
         <div class="div-size" style="position:relative;width:100%;min-height:100vh;">
-            <h1 class="fonts" style="position:absolute;top:10px;left:5%;">Mad Marketing</h1>
+            <h1 class="fonts mm-logo" style="position:absolute;top:45px;left:5%;">Mad Marketing</h1>
             <div class="container">
                 <div class="row" style="min-height:70vh">
                     <div class="col-lg-12" style="text-align:center;display: flex;flex-direction: column;justify-content:space-between;">

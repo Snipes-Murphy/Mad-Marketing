@@ -733,6 +733,9 @@ button, a {
     display: none !important; }
 
   .eyes {
-    width: 34px; } }
+    width: 34px; }
+
+  .mm-logo {
+    top: 15px !important; } }
 
 /*# sourceMappingURL=style.css.map */

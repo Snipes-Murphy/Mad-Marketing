@@ -21,9 +21,9 @@
                             <a href="tel:0260810305" class="font-reg">02 6081 0305</a>
                         </div>
                         <div class="construciton-socials">
-                            <img src="img/icons8-facebook.svg" class="hide mx-sm" alt="">
-                            <img src="img/icons8-instagram.svg" class="hide mx-sm" alt="">
-                            <img src="img/icons8-dribbble.svg" class="hide mx-sm" alt="">
+                            <a href="https://www.facebook.com/marketingmadgroup""><img src="img/icons8-facebook.svg" class="hide mx-sm" alt=""></a>
+                            <img href="https://www.instagram.com/madmarketinggroup/" src="img/icons8-instagram.svg" class="hide mx-sm" alt="">
+                            <img href="https://dribbble.com/MadMarketingGroup" src="img/icons8-dribbble.svg" class="hide mx-sm" alt="">
                         </div>
                         <div class="construciton-socials">
                             <a href="https://www.facebook.com/marketingmadgroup" target="_blank" class="font-reg space">Facebook</a>

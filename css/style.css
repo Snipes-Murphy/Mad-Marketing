@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:500&display=swap");
 @import url("https://use.typekit.net/dlr2yjq.css");
-@import url("https://github.com/Mad-Marketing/fonts/blob/0b89a6cc21c97720b071272277afadd2131a55ed/fonts.css");
+@import url("https://raw.githubusercontent.com/Mad-Marketing/fonts/0b89a6cc21c97720b071272277afadd2131a55ed/fonts.css");
 .navbar {
   transition: 200ms; }
   .navbar .dropdown .dropdown-content {

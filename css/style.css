@@ -156,6 +156,9 @@
   src: local("gilroy Black"), local("gilroy-Black"), url("fonts/gilroy-Black.eot?#iefix") format("embedded-opentype"), url("fonts/gilroy-Black.woff") format("woff"), url("fonts/gilroy-Black.ttf") format("truetype");
   font-weight: 900;
   font-style: normal; }
+@font-face {
+  font-family: 'gilroyBold';
+  src: url(../font/gilroy-Bold.woff); }
 button, a {
   font-family: 'urbane', monospace !important;
   font-weight: 500 !important;
@@ -658,7 +661,7 @@ button, a {
 .fonts-large {
   color: #081f2c;
   font-size: 64px;
-  font-family: 'Gilroy' !important;
+  font-family: 'gilroyBold' !important;
   font-weight: 700; }
 
 .fonts {

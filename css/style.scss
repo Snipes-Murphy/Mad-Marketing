@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:500&display=swap');
 @import url('https://use.typekit.net/dlr2yjq.css');
 @import "_custom";
+@import url('https://github.com/Mad-Marketing/fonts/blob/0b89a6cc21c97720b071272277afadd2131a55ed/fonts.css');
+
 
 button, a {
   font-family: 'urbane', monospace !important;
@@ -722,5 +724,65 @@ $grey-2: #73797b;
 @for $item from 1 through 3 {
   .hero-ambient-#{$item} {
     display: none !important;  
+  }
+}
+.fonts-large {
+  color: #081f2c;
+  font-size: 64px;
+  font-family: Gilroy;
+  font-weight: 700;
+}
+.fonts {
+  color: #081f2c;
+  font-size: 32px;
+  font-family: Gilroy;
+  font-weight: 700;
+}
+.font-reg {
+  color: #081f2c !important;
+  font-size: 28px !important;
+  font-family: Gilroy !important;
+  font-weight: 500 !important;
+  display: block !important;
+}
+.construciton-socials {
+  display: flex;
+  justify-content: center;
+}
+.space {
+  margin: 12px 24px;
+}
+.page-color {
+  background-color: #F6F7F8;
+  background-image: url(../img/branding-background.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.div-size {
+  display: flex;
+}
+.hide {
+  display: none;
+  width: 48px;
+}
+.space {
+  display: block;
+}
+@media only screen and (max-width: 767px) {
+  .fonts-large {
+    font-size: 24px;
+  }
+  .fonts {
+    font-size: 20px;
+  }
+  .font-reg {
+    font-size: 18px !important;
+  }
+  .hide {
+    display: block;
+  }
+  .space {
+    display: none !important;
   }
 }

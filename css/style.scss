@@ -3,6 +3,11 @@
 @import "_custom";
 @import url('https://raw.githubusercontent.com/Mad-Marketing/fonts/0b89a6cc21c97720b071272277afadd2131a55ed/fonts.css');
 
+@font-face {
+  font-family: GilroyBold;
+  src: url('../fonts/gilroy-Bold.woff');
+}
+
 button, a {
   font-family: 'urbane', monospace !important;
   font-weight: 500 !important;
@@ -728,7 +733,7 @@ $grey-2: #73797b;
 .fonts-large {
   color: #081f2c;
   font-size: 64px;
-  font-family: Gilroy;
+  font-family: GilroyBold;
   font-weight: 700;
 }
 .fonts {

@@ -10,7 +10,7 @@
                 <div class="row" style="min-height:70vh">
                     <div class="col-lg-12" style="text-align:center;display: flex;flex-direction: column;justify-content:space-between;">
                         <div>
-                            <h1 class="fonts-large">Our website is lauching very soon</h1>
+                            <h1 class="fonts-large">Our website is launching very soon</h1>
                             <div style="display:flex;justify-content:center;align-items:center;">
                                 <h1 class="fonts-large pr-md" style="margin:0;">Watch this space</h1><img src="img/twemoji_eyes.svg" class="eyes" style="" alt="looking eyes emoji">
                             </div>

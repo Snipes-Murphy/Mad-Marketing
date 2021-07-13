@@ -768,6 +768,10 @@ $grey-2: #73797b;
 .space {
   display: block;
 }
+.eyes {
+  width: 53px;
+}
+
 @media only screen and (max-width: 767px) {
   .fonts-large {
     font-size: 36px;
@@ -800,5 +804,8 @@ $grey-2: #73797b;
   }
   .space {
     display: none !important;
+  }
+  .eyes {
+    width:34px;
   }
 }

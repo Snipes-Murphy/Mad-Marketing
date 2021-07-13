@@ -12,7 +12,7 @@
                         <div>
                             <h1 class="fonts-large">Our website is lauching very soon</h1>
                             <div style="display:flex;justify-content:center;align-items:center;">
-                                <h1 class="fonts-large pr-md" style="margin:0;">Watch this space</h1><img src="img/twemoji_eyes.svg" style="width:53px;" alt="looking eyes emoji">
+                                <h1 class="fonts-large pr-md" style="margin:0;">Watch this space</h1><img src="img/twemoji_eyes.svg" class="eyes" style="" alt="looking eyes emoji">
                             </div>
                         </div>
                         <div>

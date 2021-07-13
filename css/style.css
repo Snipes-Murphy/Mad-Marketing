@@ -698,6 +698,9 @@ button, a {
 .space {
   display: block; }
 
+.eyes {
+  width: 53px; }
+
 @media only screen and (max-width: 767px) {
   .fonts-large {
     font-size: 36px; }
@@ -727,6 +730,9 @@ button, a {
     display: block; }
 
   .space {
-    display: none !important; } }
+    display: none !important; }
+
+  .eyes {
+    width: 34px; } }
 
 /*# sourceMappingURL=style.css.map */
